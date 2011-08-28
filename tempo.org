@@ -391,9 +391,9 @@ walls" or that "pre-date the construction of the trails"
   27 & T-22 & garden & 206590 & 280 $\pm$ 40 & n/a & 18 \\
   28 & T-50 & garden & 208143 & 580 $\pm$ 40 & n/a & 24 \\
     \bottomrule\addlinespace
-    \multicolumn{7}{l}{\fn{1} See \url{http://www.tsdye.com}.} \\
+    \multicolumn{7}{l}{\fn{1} See \url{http://www.tsdye.com/research/tempo.html}.} \\
   \multicolumn{7}{l}{\fn{2} See Figure~\ref{fig:diagram}.} \\
-  \multicolumn{7}{l}{\fn{3} See Figure~\ref{fig:digraph} and \url{http://www.tsdye.com}.} \\
+  \multicolumn{7}{l}{\fn{3} See Figure~\ref{fig:digraph} and \url{http://www.tsdye.com/research/tempo.html}.} \\
   \multicolumn{7}{l}{\fn{4} Conventional \rc\ age \parencite{stuiver-polach77}.} \\
   \multicolumn{7}{l}{\fn{5} Source: \textcite{ladefoged08:_variab_hawaii}.} \\
     \end{tabular}

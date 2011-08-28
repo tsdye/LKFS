@@ -204,29 +204,39 @@ additional field observations led to a five phase proposal
 [[parencite:ladefoged08:_variab_hawaii]], which differed from the
 earlier phasing.
 
-#+CAPTION: [Diagram of the detailed study area]{Diagram of the detailed study area.  Trails are indicated by capital letters in boxes and walls by lower case letters in ovals.  Dated features are shaded gray.  Uphill is toward the top of the diagram.}
-#+LABEL: fig:diagram
-#+ATTR_LaTeX: width=4.5in
+#+BEGIN_LaTeX
+\begin{figure}[htb!] 
+\centering
+\includegraphics[width=4.5in]{lad-graves.pdf} 
 
-[[file:lad-graves.pdf]]
+\caption[Diagram of the detailed study
+area]{\label{fig:diagram}Diagram of the detailed study area.  Uphill
+is toward the top of the diagram.  Trails are indicated by capital
+letters in boxes and walls by lower case letters in ovals.  The labels
+of dated features are shaded gray.  Wall building phases are from
+\textcite[Fig.~7]{ladefoged08:_variab_hawaii}.  Compare the building
+phases assigned walls that abut trail \emph{B} on the left and right.}
+
+\end{figure}
+#+END_LaTeX
 
 The map prepared as part of the detailed dating program
 [[parencite:ladefoged08:_variab_hawaii][Figure 7;]] classifies field
-system features in five building phases.  Detailed inspection of the
-map indicates that the building phases are not strictly chronological.
-This can be seen most clearly in walls that abut Trail /B/ in Figure
-\ref{fig:diagram}.  In particular, there is no published stratigraphic
-information to support the proposition that the building phase 2 walls
-on the left hand, or P\=ahinahina, side of Trail /B/ in Figure
-\ref{fig:diagram}, are older than the building phase 4 walls on the
-right hand, or Kahua 1 side, of the trail.  Similarly, there is no
-stratigraphic evidence that the building phase 3 walls on the left
-hand side of Trail /B/ are older than the building phase 5 walls on
-the right hand side of the trail.  In fact, there appears to be no
-logical way to determine the relative ages of these two sets of walls.
-That the procedures used by [[textcite:ladefoged08:_variab_hawaii]]
-assign relative ages to them indicates that the results they yield
-aren't strictly chronological.
+system features in five building phases (see Fig. \ref{fig:diagram}).
+Detailed inspection of the map indicates that the building phases are
+not strictly chronological.  This can be seen most clearly in walls
+that abut Trail /B/ in Figure \ref{fig:diagram}.  In particular, there
+is no published stratigraphic information to support the proposition
+that the building phase 2 walls on the left hand, or P\=ahinahina,
+side of Trail /B/ in Figure \ref{fig:diagram}, are older than the
+building phase 4 walls on the right hand, or Kahua 1 side, of the
+trail.  Similarly, there is no stratigraphic evidence that the
+building phase 3 walls on the left hand side of Trail /B/ are older
+than the building phase 5 walls on the right hand side of the trail.
+In fact, there appears to be no logical way to determine the relative
+ages of these two sets of walls.  That the procedures used by
+[[textcite:ladefoged08:_variab_hawaii]] assign relative ages to them
+indicates that the results they yield aren't strictly chronological.
 
 This problem with the building phases appears due to a departure from
 a standard stratigraphic analysis, which derives periods or phases

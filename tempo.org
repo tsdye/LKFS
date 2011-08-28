@@ -1,0 +1,2620 @@
+#+TITLE:     The Tempo of Change in the Leeward Kohala Field System, Hawai`i Island
+#+AUTHOR:    Thomas S. Dye
+#+EMAIL:     tsd@tsdye.com
+#+DATE:
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:
+#+LINK_HOME:
+#+XSLT:
+#+STARTUP: overview
+#+FILETAGS: RESEARCH
+#+STYLE: <link rel="stylesheet" type="text/css" href="http://www.tsdye.com/tsd.css" />
+#+LaTeX_CLASS: koma-article
+#+LaTeX_CLASS_OPTIONS: [listof=flat,letterpaper,11pt,abstract=true]
+#+LaTeX_HEADER: \usepackage[AUTO]{inputenc}
+#+LaTeX_HEADER: \usepackage[T1]{fontenc}
+#+LaTeX_HEADER: \usepackage[adobe-utopia]{mathdesign}
+#+LaTeX_HEADER: \usepackage[scaled]{berasans}
+#+LaTeX_HEADER: \usepackage[scaled]{beramono}
+#+LaTeX_HEADER: \usepackage[style=authoryear-comp,natbib=true]{biblatex}
+#+LaTeX_HEADER: \bibliography{tempo}
+#+LaTeX_HEADER: \usepackage{graphicx}
+#+LaTeX_HEADER: \setcounter{tocdepth}{1}
+#+LaTeX_HEADER: \setcounter{secnumdepth}{1}
+#+LaTeX_HEADER: \usepackage{microtype}
+#+LaTeX_HEADER: \newcommand{\rc}{\ensuremath{^{14}}{C}}
+#+LaTeX_HEADER: \usepackage{paralist}
+#+LaTeX_HEADER: \renewenvironment{enumerate}{\begin{inparaenum}[(i)]}{\end{inparaenum}}
+#+LaTeX_HEADER: \let\description\compactdesc
+#+LaTeX_HEADER: \let\itemize\compactitem
+#+LaTeX_HEADER: \let\latin\textit
+#+LaTeX_HEADER: \let\era\textsc
+#+LaTeX_HEADER: \newcounter{tsd@fn}
+#+LaTeX_HEADER: \newcommand{\fn}[1]{\setcounter{tsd@fn}{#1}\textsuperscript{\fnsymbol{tsd@fn}}}
+#+LaTeX_HEADER: \usepackage{booktabs}
+#+LaTeX_HEADER: \usepackage{textcomp,latexsym}
+#+LaTeX_HEADER: \usepackage{tabularx}
+#+LaTeX_HEADER: \usepackage[x11names]{xcolor}
+#+LaTeX_HEADER: \usepackage[colorlinks=true,urlcolor=SteelBlue4,linkcolor=Firebrick4,citecolor=Green4]{hyperref}
+
+#+LaTeX: \tableofcontents
+#+LaTeX: \listoffigures
+#+LaTeX: \listoftables
+
+* Introduction
+
+Archaeology's radiocarbon revolution has been a blessing and a curse
+for archaeologists working in Hawai`i.  When the method was first
+applied in the early 1950's it appeared to offer a scientific way to
+measure time that would be an improvement over relative dating methods
+that had yielded poorly in Hawai`i
+[[parencite:dye10:_tradit_hawaiian_surfac_archit]].  In practice,
+however, many of the \rc\space age determinations returned by dating
+laboratories proved difficult to interpret sensibly.  Over the years,
+archaeologists have responded with a variety of interpretive schemes,
+all of them ad hoc in the sense that they are not based on an explicit
+chronological model.  Ad hoc interpretive schemes are certainly
+capable of yielding good results, but the history of their application
+in Hawaii is symptomatic of an unscientific method.  This is perhaps
+easiest to see in the case of Polynesian colonization, a question that
+has been at the forefront of archaeological research in Hawai`i since
+the dawn of the radiocarbon revolution.  In science, a properly
+formulated solution yields increasingly accurate and precise results
+as the number of relevant observations grows.  In contrast, the ad hoc
+interpretive approaches have disdained precision, proposing
+colonization date estimates without corresponding error terms, and
+have failed to converge on a solution
+[[parencite:dyess:_model_age_estim_polyn_colon_hawaii][;]].  Ad hoc
+estimates of the colonization event proposed over the last two decades
+range over an eye-opening 1,200 years.
+
+This paper argues that the failure of ad hoc interpretive methods is
+systemic.  Statements about what happened in old Hawai`i based on ad
+hoc interpretations often reflect failures of the method more than
+they do events in the past.  An example is a general statement about
+sequences of agricultural development across the archipelago.
+#+begin_quote
+\ldots\ the chronological development of the Kohala, Kona, Waimea,
+Kahikinui, and Kalaupapa field systems, spanning three islands, is
+remarkably congruent.  While there was some low intensity land use in
+Kohala and Kona prior to AD 1400, in all cases the onset of major
+dryland cultivation began around AD 1400.  Following about two
+centuries of development, a final phase of intensification, typically
+marked by highly formalized garden plots and territorial boundaries,
+commenced about AD 1600 to 1650, and continued until the early
+postcontact period.  Unlike the irrigation systems, many of which have
+continued in use throughout the nineteenth and twentieth centuries,
+the dryland field systems were all rapidly abandoned within a few
+decades following European contact.
+[[parencite:kirch10:_how_chief_becam_kings][153;]]
+#+end_quote
+This statement is part of a larger argument about the chronology of
+changes in /ali`i/ authority
+[[parencite:kirch10:_how_chief_becam_kings][77 ff.;]], which has its basis
+in interpretations of traditions that were transmitted by the ruling
+/ali`i/, and which served to legitimate their rule.  The period
+boundaries for agricultural development define evenly-spaced,
+approximately two century, intervals that link features of the
+contact-era political situation with origination points identified by
+interpretation of the traditions.  The "onset of major dryland
+cultivation" in AD 1400 is when some scholars believe the traditions
+become historically accurate, in the western sense of that term
+[[parencite:kirch10:_how_chief_becam_kings][81;]].  In this interpretation
+of the traditions, /ali`i/ history begins around AD 1400.  The "final
+phase of intensification" around AD 1600 marks the first Gregorian
+century in which the traditions are interpreted to indicate that
+Hawai`i and Maui Islands were both ruled by paramounts. The Hawai`i
+Island /ali`i/, `Umi a L\=iloa, whose reign was later used to
+legitimate Kamehameha the Great's usurpation of the Hawai`i Island
+paramountcy on his way to uniting the islands, ruled at about this
+time.  Thus, field system developments are seen as congruent
+among themselves and also with a particular interpretation of the
+development of political authority in traditional Hawai`i.
+
+It is argued here that congruences such as these are, in part,
+artifacts of the ad hoc methods used to interpret the dating evidence.
+Ad hoc methods spawn two kinds of errors, both of which bolster the
+appearance of congruence.  First, their disdain for uncertainty
+conceals the fact that age estimates for some key events are very
+imprecise.  In these cases, linking the archaeological record to a
+precise time doesn't constitute archaeological support for a
+particular hypothesis.  Rather, it reflects an assumption of the
+hypothesis to shore up weaknesses in the archaeological results.
+Second, the ad hoc methods operate outside a coherent statistical
+framework and are typically wasteful of chronological information.
+They yield relatively weak results.  Precise results with the
+potential to distinguish one chronology from another are thus kept out
+of reach, leaving the impression of congruence intact.
+
+This general argument is made by way of a specific example, a
+model-based calibration and re-interpretation of the developmental
+chronology of a portion of the Leeward Kohala Field System on Hawai`i
+Island.  The Leeward Kohala Field System offers a unique opportunity
+in this regard.  As [[textcite:rosendahl72]] pointed out many years
+ago, the fabric-like structure of the field system---trails that
+connect the field system to the coast provide the warp for the weft of
+agricultural walls that divide fields from one another---yields an
+opportunity to establish relative ages of features at every
+intersection of a wall with a trail.  Within this rich mesh of
+chronologically ordered construction events,
+[[textcite:ladefoged08:_variab_hawaii]] have carried out a
+sophisticated dating program that specifically excavated beneath
+agricultural walls and under curbstones of trails to identify termini
+post quem for wall and curb construction events.  The detailed dating
+record they have produced offers analytic opportunities unmatched in
+Hawaiian archaeology.  It is the only dating record from the Leeward
+Kohala Field System capable of yielding the analytic precision
+required to evaluate the proposed temporal congruence.
+
+This rich set of data is analyzed here with Bayesian methods
+[[parencite:buck96][;]], which build a detailed chronological model of
+field system development from the stratigraphic relations of the
+agricultural walls and trails, and then fix this model in time with
+the \rc\space age determinations.  The \rc\space age determinations
+from the field system are generally quite young and their combination
+with the detailed chronological model yields results that are more
+precise than typically achieved in Hawai`i.  The precision of the
+results adds strength to the observation that they are not congruent
+with the chronology of political development yielded by the
+interpretation of /ali`i/ traditions.  Instead of the steady march of
+change implied by the ad hoc interpretation, the Bayesian analysis
+indicates that the tempo of change varied over time.  Much of what we
+recognize today as the field system---most of the walls and many of
+the trails---was built during a brief pulse of intensification at the
+end of the sequence.  In fact, much of the construction appears to
+have taken place within the historic period, which suggests that
+contingent events might have played a larger role in agricultural
+development than the interpretation of ali`i traditions would lead one
+to expect.
+
+* Relative Chronology of Field System Development
+
+The history of archaeological investigation of the Leeward Kohala
+Field System, beginning with the work of [[textcite:newman70][;]] in
+the 1960's and extending through the detailed investigations of the
+Hawai`i Biocomplexity Project is admirably summarized by
+[[textcite:ladefoged:_leewar_kohal_field_system]].  Investigation of
+relative chronological relations among the field system features was
+initiated by [[textcite:rosendahl72]], who pointed out that trails
+that ran over a wall were younger than the wall, and that walls that
+abutted a trail were younger than the trail.  The great potential of
+the approach was impressed on archaeologists by Kirch's publication of
+a graphic that showed a portion of the field system at three points in
+time \parencites[[multicite:kirch85][234;]][[multicite:kirch84][185;]].
+[[textcite:ladefoged00:_kohala_fields]] suggested that the process of
+ordering features could be simplified if wall length were used as a
+proxy for age.  They later compared this simplified method unfavorably
+to more detailed methods that relied on stratigraphic relations
+[[parencite:ladefoged:_leewar_kohal_field_system][100;]].
+[[textcite:ladefoged03:_archaeol_eviden_for_agric_devel]] returned to
+the detailed stratigraphic relations in three study areas, including
+the one at P\=ahinahina and Kahua 1 that was later the site of a
+detailed dating program (fig. \ref{fig:diagram}).  This work proposed
+a series of rules that could be used to assign field system features
+to one of four temporal phases.  Later, when the P\=ahinahina and
+Kahua 1 study area was selected for excavation and detailed dating,
+additional field observations led to a five phase proposal
+[[parencite:ladefoged08:_variab_hawaii]], which differed from the
+earlier phasing.
+
+#+CAPTION: [Diagram of the detailed study area]{Diagram of the detailed study area.  Trails are indicated by capital letters in boxes and walls by lower case letters in ovals.  Dated features are shaded gray.  Uphill is toward the top of the diagram.}
+#+LABEL: fig:diagram
+#+ATTR_LaTeX: width=4.5in
+
+[[file:lad-graves.pdf]]
+
+The map prepared as part of the detailed dating program
+[[parencite:ladefoged08:_variab_hawaii][Figure 7;]] classifies field
+system features in five building phases.  Detailed inspection of the
+map indicates that the building phases are not strictly chronological.
+This can be seen most clearly in walls that abut Trail /B/ in Figure
+\ref{fig:diagram}.  In particular, there is no published stratigraphic
+information to support the proposition that the building phase 2 walls
+on the left hand, or P\=ahinahina, side of Trail /B/ in Figure
+\ref{fig:diagram}, are older than the building phase 4 walls on the
+right hand, or Kahua 1 side, of the trail.  Similarly, there is no
+stratigraphic evidence that the building phase 3 walls on the left
+hand side of Trail /B/ are older than the building phase 5 walls on
+the right hand side of the trail.  In fact, there appears to be no
+logical way to determine the relative ages of these two sets of walls.
+That the procedures used by [[textcite:ladefoged08:_variab_hawaii]]
+assign relative ages to them indicates that the results they yield
+aren't strictly chronological.
+
+This problem with the building phases appears due to a departure from
+a standard stratigraphic analysis, which derives periods or phases
+from a matrix---the Harris matrix---that depicts all the known
+stratigraphic relationships
+[[parencite:harris89:_princ_archaeol_strat]].  Accordingly, a Harris
+matrix of the dated field system features was constructed
+(fig. \ref{fig:digraph}).  In addition to the dated field system
+features, also included in the Harris matrix are undated features that
+show the relative stratigraphic relations of dated features that don't
+intersect one another, but whose relationship can be determined with
+the map evidence.  Figure \ref{fig:digraph} thus represents the
+components of the full Harris matrix for the detailed study area
+needed to construct a chronological model for the Bayesian
+calibration.  This figure represents the chronological model that
+distinguishes Bayesian from ad hoc interpretations.
+
+Figure \ref{fig:digraph} is a directed acyclic graph, also known in
+the literature as a DAG or an acyclic digraph.  The properties of
+DAG's are well known and graph theory has developed terminology that
+makes it possible to talk about them in a precise way
+[[parencite:hage83:_models][65 ff.;]].  This can be a tremendous advantage
+when trying to conceptualize and work with a structure as large and
+complex as the detailed study area (fig. \ref{fig:diagram}).  It would
+appear to be essential to any attempt to deal with larger sections of
+the field system or to comprehend the field system whole.
+
+The properties of a DAG make it an ideal graph structure to represent
+a Harris matrix.  A DAG consists of a finite set of /points/ and a
+collection of ordered pairs of points, known as /arcs/
+[[parencite:hage83:_models][68;]].  The /directed/ property of the DAG
+refers to the fact that each arc consists of an ordered pair of
+points, or a direction that runs from the first point to the
+second point.  In the context of a Harris matrix, the
+direction of an arc encodes the stratigraphic relation "older
+than/younger than."  In Figure \ref{fig:digraph}, the arrows used for
+the arcs of the graph point from an older feature to a younger
+feature; each arrow represents an observed stratigraphic relationship
+at the intersection of a trail and a wall.  The /acyclic/ property of
+the DAG means that there is no sequence of points and arcs, where the
+points of each arc are in order, that starts and ends at the same
+point.  The lack of cycles in the graph ensures that no feature can be
+either older or younger than itself, which is a requirement of the
+stratigraphic model.
+
+#+CAPTION: [Chronological model of field system features]{Chronological model of field system features.  Features are labeled as in Figure \ref{fig:diagram}.}
+#+LABEL: fig:digraph
+#+ATTR_LaTeX: width=5in
+
+#+call: make-dag() :results file
+
+#+results: make-dag()
+[[file:/Users/dk/Public/projects/914_tempo/lkfs-dag.pdf]]
+
+
+Figure \ref{fig:digraph} is laid out with the arrows pointing down, so
+older features are at the top of the graph and younger features are at
+the bottom.  The structure of the graph, with alternating rows of
+walls and trails, reflects the nature of the evidence; none of the
+walls cross another wall, and none of the trails cross another trail.
+Two features are related chronologically if and only if one is
+/reachable/ from the other; two points in a digraph are reachable if
+it is possible to move from one to the other in the direction of the
+arcs.  Walls /g/ and /d/, for instance, are reachable from the
+same set of features, which includes walls /c/, /i/, /j/, /k/, and /h/
+and trails /B/ and /C/.  They are not, however, reachable from one
+another.  Thus, although the stratigraphic relations indicate that
+both walls are younger than trail /C/, it is not possible to tell on
+the basis of the relative stratigraphic information which of the two
+was built before the other.
+
+The graph of figure \ref{fig:digraph} is /weakly connected/ because it
+contains pairs of points that are not reachable from one another.
+This occurs fairly frequently in situations like the one discussed
+above with walls /d/ and /g/, where the walls are physically close to
+one another and share similar stratigraphic relations to neighboring
+trails.  It also occurs frequently on opposite sides of a trail, as
+discussed above with regard to the building phase 2, 3, 4 and 5 walls
+on either side of trail /B/.  However, weak connections also occur at
+points that distinguish larger sections of the field system, and these
+might provide clues to the history of development.  The prime example
+of this in the detailed study area is wall /b/.  None of the points
+that reach wall /b/ from the left hand side of Figure
+\ref{fig:digraph} is reachable from any of the points that reach wall
+/b/ from the right hand side of the figure.  Thus the stratigraphic
+structure of the detailed study area is broken between trails /C/ and
+/D/ in Kahua 1.
+
+Figure \ref{fig:digraph} provides the information needed to group
+features with similar stratigraphic relations for the Bayesian
+calibration; the groups are indicated on the figure by labeled
+rectangles.  In graph theory, the points of an arc are said to be
+/adjacent/ to one another; the first point is /adjacent to/ the second
+point, and the second point is /adjacent from/ the first point.
+Features have been grouped for the calibration analysis if and only if
+they are adjacent to and/or from the same point(s).  Thus, walls /c/,
+/i/, /j/, and /k/ are grouped with one another because they are
+adjacent to trail /B/, walls /l/ and /a/ are grouped because both are
+adjacent from trail /A/, and walls /e/ and /f/ are grouped because both
+are adjacent from trail /B/ and adjacent to trail /A/.  This procedure
+ensures that features included in a group are strictly comparable to
+one another according to the relative stratigraphic information.
+
+* \rc\space Dating of Field System Features
+
+Table \ref{tab:dates} lists 21 of the 25 \rc\space age determinations
+associated with agricultural features in Leeward Kohala Field System
+published by [[textcite:ladefoged08:_variab_hawaii][Table 1;]].  It
+includes all 17 \rc\space age determinations from the detailed study
+area at P\=ahinahina and Kahua 1, along with four of the eight
+\rc\space age determinations from features outside the detailed study
+area.  All of the age determinations in the table are on short-lived
+materials.  The four excluded \rc\space age determinations are on
+materials identified as dicot wood.  They were excluded because of the
+potential in-built age carried by this material.  The \rc\space age
+determinations all derive from archaeological contexts that "date
+activities that occurred before the construction of the agricultural
+walls" or that "pre-date the construction of the trails"
+[[parencite:ladefoged08:_variab_hawaii][778;]].
+
+#+begin_src latex :exports results :results latex
+  \begin{table}[htb!]
+    \centering
+    \footnotesize
+    \caption{\rc\ age determinations}
+    \label{tab:dates}
+    <<booktabs-notes(table=dates,notes=dates-fn,lspace=t,align="rcrlcrr",env="tabular")>>  
+  \end{table}
+#+end_src
+
+#+results:
+#+BEGIN_LaTeX
+\begin{table}[htb!]
+  \centering
+  \footnotesize
+  \caption{\rc\ age determinations}
+  \label{tab:dates}
+  
+    \begin{tabular}{rcrlcrr}
+    \toprule
+    $\theta$\fn{1} & Feature\fn{2} & Group\fn{3} & Beta- & CRA\fn{4} & Outlier & KRC-\fn{5} \\
+  \midrule
+  8 & i & 1 & 189729 & 290 $\pm$ 40 & -2\% & 1 \\
+  9 & j & 1 & 189730 & 440 $\pm$ 40 & 6\% & 2 \\
+  10 & k & 1 & 189731 & 420 $\pm$ 40 & 2\% & 3 \\
+  11 & c & 1 & 208141 & 200 $\pm$ 40 & 20\% & 22 \\
+  12 & e & 3 & 208138 & 320 $\pm$ 40 & 5\% & 19 \\
+  13 & f & 3 & 208139 & 160 $\pm$ 40 & -3\% & 20 \\
+  14 & e & 3 & 208140 & 150 $\pm$ 40 & -3\% & 21 \\
+  15 & l & 5a & 189732 & 210 $\pm$ 40 & 1\% & 4 \\
+  16 & a & 5a & 208142 & 340 $\pm$ 40 & -3\% & 23 \\
+  17 & d & 5b & 189734 & 250 $\pm$ 40 & 3\% & 6 \\
+  18 & g & 5b & 189735 & 410 $\pm$ 40 & 3\% & 7 \\
+  19 & p & garden & 189740 & 330 $\pm$ 40 & n/a & 12 \\
+  20 & q & garden & 189741 & 150 $\pm$ 30 & n/a & 13 \\
+  21 & o & garden & 189742 & 130 $\pm$ 30 & n/a & 14 \\
+  22 & B & 2 & 189733 & 130 $\pm$ 30 & -1\% & 5 \\
+  23 & C & 4 & 189736 & 140 $\pm$ 30 & -3\% & 8 \\
+  24 & F & garden & 189743 & 210 $\pm$ 40 & n/a & 15 \\
+  25 & T-12 & garden & 189737 & 470 $\pm$ 40 & n/a & 9 \\
+  26 & T-21 & garden & 189745 & 460 $\pm$ 40 & n/a & 17 \\
+  27 & T-22 & garden & 206590 & 280 $\pm$ 40 & n/a & 18 \\
+  28 & T-50 & garden & 208143 & 580 $\pm$ 40 & n/a & 24 \\
+    \bottomrule\addlinespace
+    \multicolumn{7}{l}{\fn{1} See \url{http://www.tsdye.com}.} \\
+  \multicolumn{7}{l}{\fn{2} See Figure~\ref{fig:diagram}.} \\
+  \multicolumn{7}{l}{\fn{3} See Figure~\ref{fig:digraph} and \url{http://www.tsdye.com}.} \\
+  \multicolumn{7}{l}{\fn{4} Conventional \rc\ age \parencite{stuiver-polach77}.} \\
+  \multicolumn{7}{l}{\fn{5} Source: \textcite{ladefoged08:_variab_hawaii}.} \\
+    \end{tabular}
+    
+\end{table}
+#+END_LaTeX
+
+
+Table \ref{tab:dates} provides the label assigned to the age
+determination by [[textcite:ladefoged08:_variab_hawaii]] in the last
+column, the label assigned by the dating laboratory in column 4, the
+wall or trail feature with which the age determination is associated,
+keyed to Figure \ref{fig:diagram}, in column 2, and the calibration
+group to which the determination has been assigned in column 3.  The
+values in the first column, labeled \theta, identify the age
+determinations in the Bayesian analysis. Technically, in the Bayesian
+model each \theta represents the true calendar age of the sample,
+which is estimated by the corresponding \rc\space age determination.
+The values in the table start with \theta_8 and run through \theta_28.
+This is because the field system calibration is carried out in the
+context of an estimate of when the islands were initially colonized by
+Polynesians, which requires seven age determinations assigned to
+\theta_{1 \dots 7} [[parencite:dyess:_model_age_estim_polyn_colon_hawaii][;]].  The column labeled "Outlier" is an analytic result, discussed
+below.
+
+A striking feature of Table \ref{tab:dates} is that most of the
+\rc\space age determinations are relatively young.  This is the case
+even for \rc\space age determinations associated with the oldest
+features in the detailed study area.  Two of the \rc\space age
+determinations associated with Group 1 walls are less than 300
+\rc\space years old, and the youngest of these, associated with wall
+/c/, dates to 200 \pm 40 BP.  The sample collected from beneath the
+curbstone of the oldest trail, trail /B/, dates to 130 \pm 30 BP.
+Keeping in mind that these \rc\space age determinations pre-date
+construction of the associated features, and that the field system was
+abandoned "within a few decades following European contact"
+[[parencite:kirch10:_how_chief_becam_kings][153;]], or about 100 BP, it
+would appear that most of the features in the detailed study area were
+built within the span of about 100 \rc\space years.
+
+Because a 100 \rc\space year span seems too brief for construction of
+the field system facilities, an analysis was performed to identify
+outliers among the \rc\space age determinations
+[[parencite:christen94:_summar_set_of_radioc_deter]].  The expectation was
+that the young age determinations associated with the oldest features
+would be identified as outliers and could be removed from the
+calibration.  The results of the outlier analysis are presented in
+column 6 of Table \ref{tab:dates} as the difference between an
+uninformative prior probability assigned to each \rc\space age
+determination and the posterior probability returned by the analysis.
+Negative numbers indicate \rc\space age determinations that are less
+likely to be outliers than was estimated by the prior probability and
+positive numbers indicate \rc\space age determinations that are more
+likely to be outliers.  The outlier identification procedure doesn't
+establish a metric for how big this difference must be for a \rc\space
+age determination to be considered an outlier.  In practice, the
+analyst uses the results to draw attention to particular \rc\space age
+determinations and these are scrutinized as necessary before a
+decision is made either to keep them in the analysis or discard them
+as outliers.
+
+The results of the outlier analysis indicate that there is no reason
+to question the integrity of most of the age determinations.  The
+young age determination from under the curbstone of trail /B/ and the
+age determination associated with wall /i/ in Group 1 are not
+outliers.  The only age determination possibly indicated by the
+analysis as an outlier is the age determination associated with wall
+/c/.  [[textcite:ladefoged08:_variab_hawaii][779;]] don't discuss this
+particular age determination and it appears not to have played a role
+in their interpretation of the dating results.  However, there are
+several reasons why this age determination should not be ignored as
+an outlier:
+   1. the dating model typically has few age determinations per group
+      and this makes outlier determination less reliable than it would
+      be with more samples;
+   2. the result returned by the outlier analysis is not particularly
+      strong---the prior probability of 0.1 increased to 0.3, about a
+      quarter of the possible maximum;
+   3. the \rc\space age determination is only 90 \rc\space years
+      younger than the next youngest sample from beneath a Group 1
+      wall;
+   4. the \rc\space age determination associated with the feature
+      immediately younger than it, trail /B/, is stratigraphically
+      correct and about 70 \rc\space years younger than it; and
+   5. charcoal from the later swidden activities might be relatively
+      rare if, as appears to be the case, secondary growth
+      were consistently used as a source of mulch, or if burned
+      secondary growth consisted mostly of grasses [[parencite:kirch10:_how_chief_becam_kings][53;]].  
+On balance, then, there appears to be no compelling reason to discard
+this age determination as an outlier.  However, this is an issue that
+might repay identification and dating of additional samples from
+beneath Group 1 walls.
+
+* Developmental Periods and Their Boundaries
+
+The history of the Leeward Kohala Field System is typically described
+according to a theory of agricultural development that distinguishes
+processes of expansion and intensification
+[[parencite:kirch10:_how_chief_becam_kings,ladefoged08:_variab_hawaii,ladefoged:_leewar_kohal_field_system]].
+The process of expansion involves "conversion of previously unused
+areas to cultivation"
+[[parencite:ladefoged:_leewar_kohal_field_system][95;]].  It is recognized
+archaeologically beneath the oldest field system walls in units of
+stratification that "show clear signs of clearing or cultivation, such
+as digging stick holes, churned sediments, and charcoal lenses or
+flecking" [[parencite:ladefoged08:_variab_hawaii][778;]].  The process of
+intensification increases "the amount of labor in a fixed area of land
+to increase production"
+[[parencite:ladefoged:_leewar_kohal_field_system][95;]].  It is recognized
+archaeologically by construction of the field system walls.  In use,
+the walls were typically planted with sugar cane which helped them
+serve as windbreaks, which increased yields by protecting crops from
+the famous Kohala winds and reducing evapotranspiration
+[[parencite:ladefoged:_leewar_kohal_field_system][94;]].
+
+The periods of expansion and intensification can be augmented with two
+additional periods that set the Leeward Kohala Field System within the
+framework of a first-order cultural sequence for Hawai`i.  The first
+of these embraces the time between Polynesian colonization and the
+onset of agricultural expansion.  The land that would later become the
+Leeward Kohala field system lay undeveloped and was either unused or
+used so lightly that archaeologists are unable to detect it.  At the
+other end of the sequence is the time since the field system was
+abandoned in the mid-nineteenth century.  Historically, use of the
+area during this period was for cattle ranching, but other commercial
+activities have been attempted, all of them made possible by the
+introduction of certain property rights and the alienability of land
+during the Mahele
+[[parencite:chinen58:mahele,moffat95:_survey_mahel,banner05:_prepar_colon,chinen02:_they_cried_help]].
+For ease of reference, the periods are here labeled Colonization,
+Expansion, Intensification, and Alienation.  The model was calibrated
+with the BCal software package [[parencite:bcal]].
+
+Estimates of the period boundaries yielded by the Bayesian calibration
+are shown in Figure \ref{fig:periods}.  The colonization event is
+based on model (3) of
+[[textcite:dyess:_model_age_estim_polyn_colon_hawaii]], which includes a
+\rc\space age determination on rat bone from the `Ewa Plain that did
+not control for the possibility of a marine component in the rat's
+diet that would make the bone appear too old.  Model (3) was used
+because it yields a relatively precise estimate of the colonization
+event, but one which maintains the central tendency of the
+less-precise estimate without the rat bone date
+[[parencite:dyess:_model_age_estim_polyn_colon_hawaii]].  Still, the 67%
+highest posterior density region of the estimate, analogous to the one
+standard deviation error term of frequentist statistics, covers almost
+two centuries.  The 95% HPD region, analogous to two standard
+deviations, spans more than three centuries.  The distribution is
+centered around AD 980 and is relatively symmetrical.
+
+
+#+CAPTION: [Period boundary estimates]{Period boundary estimates.  The 67% highest posterior density regions are: \textit{top left}, AD 860--1029; \textit{top right}, AD 1290--1409; \textit{bottom left}, AD 1640--1729; \textit{bottom right}, AD 1850--1869.}
+#+LABEL: fig:periods
+#+ATTR_LaTeX: width=6in
+
+#+call: dated-events-plot[:file lkfs-periods.pdf :height 4](bcal=lkfs-periods) :results file
+
+
+The estimate for the beginning of the Expansion period is slightly
+more precise than the estimate of the Colonization period.  The 67%
+HPD covers about 120 years and the 95% HPD about 280 years.  The
+central tendency of the distribution is clearly within the fourteenth
+century; probabilities drop off quickly after AD 1400, and the long,
+low early tail takes in the eleventh through thirteenth centuries.
+
+The precision of the estimate improves markedly in the Intensification
+period, due primarily to the constraints imposed by chronological
+relations of the field system features (fig. \ref{fig:digraph}).
+Given the model and current evidence, the 67% HPD covers 90 years and
+the 95% HPD 210 years.  The distribution has a marked peak around AD
+1680 that falls rapidly in the eighteenth century but has a long, low
+early tail that extends through the sixteenth century.
+
+The estimate for the Alienation period is included on Figure
+\ref{fig:periods} for the sake of completeness.  This period boundary
+is a floating parameter in the model that was modeled as a normal
+curve with a ten year standard deviation centered at AD 1850.  Land
+records from the Mahele appear to indicate that the field system was
+abandoned by the middle of the nineteenth century.  In any event,
+archaeological excavations in the field system did not yield
+information on the abandonment event, so the estimate yielded by the
+Bayesian calibration is mainly a reflection of the prior probability.
+
+
+Estimates for the construction of facilities within the detailed study
+area are shown in Figure \ref{fig:features} and the precisions of the
+estimates are listed in Table \ref{tab:facility}.  The high precision
+of these estimates is due to the many constraints yielded by the
+stratigraphic relations of the trails and walls
+(fig. \ref{fig:digraph}) and to the apparent brevity of the
+Intensification period.  The estimate for Group 1 is also the estimate
+for the onset of Intensification and was discussed earlier.  Group 2
+dates construction of the curb along trail /B/, which marks the
+boundary between P\=ahinahina and Kahua 1.  This trail appears to have
+been built early in the eighteenth century.  The distribution of the
+estimate is centered on AD 1720, with a 67% HPD region that spans 60
+years.  The P\=ahinahina agricultural walls /e/ and /f/, in Group 3,
+are estimated to have been constructed around the middle of the
+eighteenth century.  The distribution of the estimate is centered on
+AD 1760.  The 67% HPD region spans 70 years.  Trail C, in Kahua 1, but
+structurally associated with features in P\=ahinahina, appears to have
+been built around the turn of the nineteenth century.  The 67% HPD
+region for this event spans 60 years.  Finally, the two P\=ahinahina
+walls in Group 5a and the two Kahua 1 walls in Group 5b are estimated
+to be penecontemporaneous.  The estimates for these two groups both
+peak around AD 1840 and both have 67% HPD regions that span 50 years.
+
+#+CAPTION: [Chronology of dated features]{Chronology of dated features in the Leeward Kohala Field System detailed study area.  See Table \ref{tab:facility} for estimates of precision and Figure \ref{fig:digraph} for the definition of groups.}
+#+LABEL: fig:features
+#+ATTR_LaTeX: width=6in
+
+#+call: dated-events-plot[:file lkfs-features.pdf :height 4.5](bcal=feature-chronology) :results file
+
+#+results: dated-events-plot[:file lkfs-features.pdf :height 4.5](bcal=feature-chronology)
+[[file:lkfs-features.pdf]]
+
+#+CAPTION: Precision of estimates for facility construction
+#+LABEL: tab:facility
+#+ATTR_LaTex:  align=ccc placement=[hbt]\footnotesize
+
+| *Group* | *67% HPD (AD)* | *95% HPD (AD)* |
+|---------+----------------+----------------|
+|       2 |     1690--1749 |     1680--1779 |
+|       3 |     1730--1799 |     1700--1819 |
+|       4 |     1770--1829 |     1730--1859 |
+|      5a |     1810--1859 |     1770--1879 |
+|      5b |     1810--1859 |     1770--1869 |
+
+* Tempo of Change
+
+An alternative view of the calibration results takes the focus away
+from estimates of period boundaries and puts it instead on estimates
+of period duration.  Figure \ref{fig:tempo} shows duration estimates
+for the Colonization, Expansion, Intensification, and Alienation
+periods.
+
+
+#+CAPTION: [Tempo of change in the Leeward Kohala Field System]{Tempo of change in the Leeward Kohala Field System.  The figure is in row major order with the oldest period in the upper left. The 67% HPD intervals are: \textit{top left}, 270--489 years; \textit{top right}, 260--419 years; \textit{bottom left}, 100--189 years; \textit{bottom right}, 100--139 years.  Note that the Alienation period is compressed somewhat by the use of AD 1950 as present, a convention in \rc\space dating.}
+#+LABEL: fig:tempo
+#+ATTR_LaTeX: width=6in
+
+#+call: dated-interval-plot[:file lkfs-tempo.pdf :height 4](bcal=tempo) :results file
+
+#+results: dated-interval-plot[:file lkfs-tempo.pdf :height 4](bcal=tempo)
+[[file:lkfs-tempo.pdf]]
+
+The Colonization and Expansion periods are both relatively long, on
+the order of 3--5 centuries, and imprecisely estimated, with 67% HPD
+regions between 160 and 260 years.  In contrast, the
+Intensification and Alienation periods are relatively short.  Most of
+the difference in their durations is due to a convention of \rc\space
+dating that defines Present as AD 1950.  Adding an extra 60 years to
+the length of the Alienation period would shift its distribution to
+the right and bring it almost precisely in line with the
+Intensification period.  Duration estimates for both periods are
+relatively precise, although, as noted above, uncertainty in the
+duration of the Alienation period is mostly an artifact of the model's
+assumptions.
+
+* Discussion
+
+The extended quote in section [[Introduction]]
+[[parencite:kirch10:_how_chief_becam_kings][153;]] is structured as an
+origin narrative.  Like other origin narratives it has two goals---to
+establish the plausibility of the events and processes it projects
+onto the past, and to claim authority by locating them at particular
+times [[parencite:moore95:_probl_of_origin][;]].  This particular
+origin narrative identifies the processes of agricultural expansion
+and intensification and fixes their origins at AD 1400 and 1600--1650,
+two times that an interpretation of tradition finds important in the
+rise of /ali`i/ authority.  The regularity of the process identified
+in the narrative---200 years of expansion followed by 200 years of
+intensification into the early historic period---gives it an aura of
+inevitability, as if the present were predicted by the origin events
+in its past.  Bayesian calibration yields the precise dating results
+with which to evaluate these claims about agricultural development, at
+least in a portion of the Leeward Kohala Field System.  
+
+The expansion process, whose origin is described as "the onset of
+major dryland cultivation" is hypothesized to have originated about
+AD 1400.  This is a time when land was cleared for cultivation of
+sweet potato, a crop plant that originated in America and was
+introduced to Eastern Polynesia by voyagers who made the return trip
+to the coast of South America
+[[parencite:storey07:_radioc_and_dna_eviden_for]].  On present
+evidence, it was introduced to Hawai`i some 3--6 centuries after the
+islands were colonized
+[[parencite:dyess:_model_age_estim_polyn_colon_hawaii][Table 2;]].
+Excavations in the Leeward Kohala Field System collected a charred
+tuber tentatively identified as sweet potato that represents the
+earliest dated occurrence of the plant in Hawai`i
+[[parencite:ladefoged05:_introd_sweet_potat_polyn]].  The \rc\space
+age determination for this probable sweet potato tuber, Beta-208143,
+is the oldest from the field system (table \ref{tab:dates}), and thus
+marks the onset of the Expansion period.
+[[textcite:ladefoged:_leewar_kohal_field_system][779;]] interpreted
+this information as placing the start of the Expansion period "as
+early as AD 1290 but certainly by AD 1430."  The Bayesian calibration
+relies on the same evidence for its estimate and gives a similar
+result; stratigraphic relations that might constrain the calibrated
+age of this sample are absent.  The date of AD 1400 for the expansion
+process singled out by the origin narrative falls at the late end of
+this range. It is a plausible estimate for the onset of the Expansion
+period, but it is only one of very many plausible estimates. The
+calibration results from the detailed study area are equally
+"congruent" with an origin of the Expansion period anytime in the
+fourteenth century or even a bit earlier.  The archaeological
+information is less certain than the origin narrative implies.  In
+this case, the origin narrative is imposing its structure on the
+archaeological data rather than the other way round.
+
+The second process identified in the origin narrative is "a final
+phase of intensification" that "commenced about AD 1600 to 1650."
+This range of dates is at odds with the interpretation put forward by
+[[textcite:ladefoged:_leewar_kohal_field_system]], who believed the
+intensification started earlier.  They assign early construction dates
+to walls /j/ and /k/ in Group 1 based on the presence of relatively
+old charcoal beneath them.  In their view, this puts the start of the
+Intensification period "as early as AD 1410 but possibly not until AD
+1630" [[parencite:ladefoged:_leewar_kohal_field_system][779;]].  This
+inference appears to be based on a logical error, however.  It is only
+possible to know that the charcoal collected under a wall is older
+than the wall; it is not possible to know, in the absence of other
+information, /how much/ older it is.  The Bayesian calibration
+corrects this logical error and yields a much later estimate.
+According to it, the intensification process got underway in AD
+1640--1729, about a half century later than the range hypothesized by
+the origin narrative.  This disparity grows when the pace of
+intensification is considered.  At least three analyses have indicated
+that most of the wall construction effort in the Leeward Kohala Field
+System was concentrated in the later phases of wall building
+[[parencite:ladefoged00:_kohala_fields,ladefoged03:_archaeol_eviden_for_agric_devel,ladefoged08:_variab_hawaii]].
+This trend can be seen clearly in the detailed study area in the walls
+related stratigraphically to trail /B/.  There are 28 of these; four
+belong to the early Group 1 walls and the rest belong to Group 3,
+which dates to AD 1730--1799, and Group 5, which dates to the early
+nineteenth century.  Thus, the Bayesian calibration indicates that the
+main thrust of field system intensification can be dated to the
+eighteenth and early nineteenth centuries.  Much of it seems to be a
+post-contact phenomenon.
+
+This disparity between the hypothesized rise of /ali`i/ authority, as
+intrepreted from /ali`i/ traditions, and field system intensification
+is supported by evidence for development of the spatial structure of
+the field system.  Application of graph theoretic principles to the
+detailed study area indicates a structural break between trails /C/
+and /D/ within Kahua 1 and not at the boundary of P\=ahinahina and
+Kahua 1 as implied by an earlier analysis
+[[parencite:ladefoged:_leewar_kohal_field_system][Figure 1;]].  This
+structural break was not closed until sometime after the curb for
+trail /C/ was constructed, which the Bayesian calibration estimates at
+AD 1770--1829.  The implication of this finding is that construction
+projects were carried out in sub-regions of the field system whose
+boundaries were not coincident with /ahupua`a/ boundaries until
+relatively late in traditional Hawaiian times and quite possibly into
+the post-contact era.  To the extent that /ali`i/ authority was
+projected into the field system within /ahupua`a/ land units, this
+result suggests that /ali`i/ authority played a late, largely
+post-contact, role in construction of the field system.
+
+A consideration of the tempo of change indicated by the Bayesian
+calibration contraindicates the impression of regularity and
+inevitability left by the chronology of the origin narrative.
+Instead, the expansion of agriculture into the region made possible by
+the late introduction of sweet potato was a fairly long, drawn out
+affair that is imprecisely dated with current evidence.  This is a
+period during which expert agriculturalists experimented with a new
+crop plant in areas that had previously seen little, if any, use.
+Presumably, it was at this time that the limits of rain-fed
+cultivation of sweet potato were discovered---the arid boundary of the
+lowland fields and the nutrient deficient boundary in the wet uplands
+[[parencite:vitousek04:_soils_agric_and_societ_in_precon_hawaii][;]].
+Some experimentation with agricultural walls in the late seventeenth
+century indicate efforts, presumably successful, to control soil
+moisture against the combined effects of strong winds and variability
+in precipitation.  This long period of expansion and initial
+experimentation was punctuated, probably early in the historic period,
+by a period of intensive wall construction and field subdivision that
+ended less than a century later when the field system was abandoned.
+The irregular tempo of change revealed by the Bayesian calibration,
+with a late burst of investment in the field system infrastructure
+followed soon after by its abandonment, suggests the importance of
+contingency in the history of agricultural development and raises the
+possibility that the response to contingent events, which disrupted several
+hundred years of apparently successful agricultural and social
+development, was not in the end sustainable.
+
+\printbibliography
+
+* Detailed Chronological Model                                     :noexport:
+The model of the relative chronological information for the detailed
+study area of the Leeward Kohala Field System (section [[Relative
+Chronology of Development]]) and the \rc\space age determinations
+(section [[\rc\space Dating]]) can be set within the framework of a
+first-order cultural sequence for Hawai`i that was established using
+Bayesian methods [[parencite:dyess:_model_age_estim_polyn_colon_hawaii]].  The
+first-order cultural sequence includes a pre-colonization period,
+evidenced by dated material recovered during paleoenvironmental
+coring, and a post-colonization period, evidenced by dates on
+Polynesian-introduced materials from archaeological sites.  If we let
+\alpha_pre and \beta_pre equal the early and late bounds of the
+pre-colonization period, and \alpha_post and \beta_post equal the
+early and late bounds of the post-colonization period, then a
+first-order cultural history sequence for Hawai`i can be expressed
+with model (\ref{eq:first-order}), which states that 
+   1. the pre-colonization period began at a time too old for the
+      \rc\space method to date;
+   2. the colonization event simultaneously ended the pre-colonization
+      period and began the post-colonization period; and
+   3. the post-colonization period continues to the present, which
+      following \rc\space dating convention
+      [[parencite:stuiver-polach77][;]], is AD 1950.
+
+\begin{equation}\label{eq:first-order}
+\infty = \alpha_{pre} > \beta_{pre} = \alpha_{post} > \beta_{post} = 0
+\end{equation}
+
+The age of the colonization event was estimated using model (3)
+of [[textcite:dyess:_model_age_estim_polyn_colon_hawaii]], which includes
+seven \rc\space age determinations on floral and faunal materials
+[[parencite:dyess:_model_age_estim_polyn_colon_hawaii][Table 1;]].
+
+The dating program carried out by
+[[textcite:ladefoged08:_variab_hawaii][;]] dated materials that were
+collected from archaeological contexts stratigraphically older than
+selected trail curbs and agricultural walls.  These results from the
+detailed study area of the Leeward Kohala Field System can be fit into
+the first-order cultural sequence in the following way. The graph
+theoretic analysis in Section [[Relative Chronology of Development]]
+identified and grouped features with equivalent relative stratigraphic
+relations, creating six groups (fig. \ref{fig:digraph}).  The early
+and late bounds of the pre-feature deposits in each group can be
+specified as \alpha_n and \beta_n, respectively, where n = (1, 2, 3,
+4, 5a, 5b).  Two undated features, trail /A/ and wall /h/, are
+included in the model to establish stratigraphic relations among dated
+features; these are indicated as the floating parameters \phi_A and
+\phi_h, both of which were assigned uninformative prior probabilities
+modeled as a uniform distribution AD 800-1950.  In addition, land
+records indicate that the Leeward Kohala Field System was likely
+abandoned by the middle of the nineteenth century.  This information
+is included in the model with a floating parameter, \phi_abandon, that
+is normally distributed at AD 1850 with a standard deviation of 10
+years.
+
+Each \beta_n provides an estimate for when the walls of Group /n/ were
+built.   
+
+\begin{equation}\label{eq:1}
+\beta_{pre} > \alpha_1 > \theta_{8-11} > \beta_1 > \beta_2
+\end{equation}
+
+\begin{equation}\label{eq:2}
+\alpha_2 > \theta_{22} > \beta_2 > \beta_3
+\end{equation}
+
+\begin{equation}\label{eq:3}
+\alpha_3 > \theta_{12-14} > \beta_3 > \phi_A
+\end{equation}
+
+\begin{equation}\label{eq:h}
+\phi_h > \beta_4
+\end{equation}
+
+\begin{equation}\label{eq:4}
+\alpha_4 > \theta_{23} > \beta_4 > \beta_5b
+\end{equation}
+
+\begin{equation}\label{eq:A}
+\phi_A > \beta_{5a}
+\end{equation}
+
+\begin{equation}\label{eq:5a}
+\alpha_{5a} > \theta_{15, 16} > \beta_{5a} > \phi_{abandon}
+\end{equation}
+
+\begin{equation}\label{eq:5b}
+\alpha_{5b} > \theta_{17, 18} > \beta_{5b} > \phi_{abandon}
+\end{equation}
+
+In addition, there are seven \rc\space age determinations from outside
+the most intensively investigated portion of the field system.  These
+age determinations provide information on the timing of gardening
+activities, but don't usefully constrain the model set out above.
+They are useful, however, to establish the onset of the Expansion
+period. 
+
+\begin{equation}\label{eq:garden}
+\beta_{pre} > \alpha_{garden} > \theta_{19-21, 25-28} > \beta_{garden} > \phi_{abandon}
+\end{equation}
+
+* References                                                       :noexport:
+
+** Roots of Conflict
+   :PROPERTIES:
+   :TITLE:    Roots of Conflict
+   :TYPE:     book
+   :EDITOR:   Patrick Vinton Kirch
+   :PUBLISHER: SAR Press
+   :YEAR:     2010
+   :SERIES:   School for Advanced Research Advanced Seminar Series
+   :ADDRESS:  Santa Fe, NM
+   :CUSTOM_ID: zzz_kirch10:_roots_confl
+   :END:
+
+** The Leeward Kohala Field System
+   :PROPERTIES:
+   :TITLE:    The Leeward Kohala Field System
+   :TYPE:     incollection
+   :AUTHOR:   Thegn N. Ladefoged and Michael W. Graves
+   :BOOKTITLE: Roots of Conflict: Soils, Agriculture, and Sociopolitical Complexity in Ancient Hawai`i
+   :CROSSREF: zzz_kirch10:_roots_confl
+   :CHAPTER:  5
+   :PAGES:    89--110
+   :CUSTOM_ID: ladefoged:_leewar_kohal_field_system
+   :END:
+
+** Model-based Age Estimate for {P}olynesian Colonization of {H}awai`i
+   :PROPERTIES:
+   :TITLE:    A Model-based Age Estimate for {P}olynesian Colonization of {H}awai`i
+   :TYPE:     article
+   :AUTHOR:   Thomas S. Dye
+   :JOURNAL:  Archaeology in Oceania
+   :YEAR:     in press
+   :CUSTOM_ID: dyess:_model_age_estim_polyn_colon_hawaii
+   :END:
+
+** How Chiefs Became Kings
+   :PROPERTIES:
+   :TITLE:    How Chiefs Became Kings: Divine Kingship and the Rise of Archaic States in Ancient Hawai`i
+   :TYPE:     book
+   :AUTHOR:   Patrick Vinton Kirch
+   :PUBLISHER: University of California Press
+   :YEAR:     2010
+   :ADDRESS:  Berkeley, CA
+   :CUSTOM_ID: kirch10:_how_chief_becam_kings
+   :END:
+
+*** Chronological development of field systems, p. 153
+    To sum up, the chronological development of the Kohala, Kona, Waimea,
+    Kahikinui, and Kalaupapa field systems, spanning three islands, is
+    remarkably congruent.  While there was some low intensity land use in
+    Kohala and Kona prior to AD 1400, in all cases the onset of major
+    dryland cultivation began around AD 1400.  Following about two
+    centuries of development, a final phase of intensification, typically
+    marked by highly formalized garden plots and territorial boundaries,
+    commenced about AD 1600 to 1650, and continued until the early
+    postcontact period.  Unlike the irrigation systems, many of which have
+    continued in use throughout the nineteenth and twentieth centuries,
+    the dryland field systems were all rapidly abandoned within a few
+    decades following European contact.
+
+*** Early archaeological sites, p. 126
+    Only a single well-documented habitation site, with early forms of
+    Eastern Polynesian artifacts (fishhooks, adzes), is arguably dated to
+    this initial phase: the Bellows or O18 dune site at Waim\={a}nalo on
+    windward O`ahu.
+
+*** Traditional political history
+- Assuming a 20 year generational interval and accepting Hommon's
+  judgement that the last 21 generations of the /ali`i/
+  genealogies are historically accurate takes the traditional
+  history of the ali`i back to AD 1400 (which is one
+  congruence). p. 81--82
+- Ali`i history, in the western sense of the word "history,"
+  begins in AD 1400
+- AD 1600 marks the beginning of the first Gregorian century in
+  which there were island paramounts on Maui and Hawai`i Island.
+- `Umi a L\=iloa, whose reign helped legitimate Kamehameha's
+  usurpation, ruled at about this time.
+
+** Archaeological evidence for agricultural development in Kohala, Island of Hawai`i
+   :PROPERTIES:
+   :TITLE:    Archaeological evidence for agricultural development in {Kohala, Island of Hawai`i}
+   :TYPE:     article
+   :AUTHOR:   Thegn N. Ladefoged and Michael W. Graves and Mark D. McCoy
+   :JOURNAL:  Journal of Archaeological Science
+   :YEAR:     2003
+   :VOLUME:   30
+   :PAGES:    923--940
+   :CUSTOM_ID: ladefoged03:_archaeol_kohal_islan_hawaii
+   :END:
+** Variable development of dryland agriculture in {H}awai`i: A fine-grained chronology from the {Kohala Field System, Hawai`i Island}
+   :PROPERTIES:
+   :TITLE:    Variable development of dryland agriculture in {H}awai`i: A fine-grained chronology from the {Kohala Field System, Hawai`i Island}
+   :TYPE:     article
+   :AUTHOR:   Thegn N. Ladefoged and Michael W. Graves
+   :JOURNAL:  Current Anthropology
+   :YEAR:     2008
+   :VOLUME:   49
+   :NUMBER:   5
+   :PAGES:    771--802
+   :CUSTOM_ID: ladefoged08:_variab_hawaii
+   :END:
+
+** Traditional {H}awaiian Surface Architecture: Absolute and Relative Dating
+   :PROPERTIES:
+   :TITLE:    Traditional {H}awaiian Surface Architecture: Absolute and Relative Dating
+   :TYPE:     incollection
+   :AUTHOR:   Thomas S. Dye
+   :BOOKTITLE: Research Designs for Hawaiian Archaeology: Agriculture, Architecture, Methodology
+   :PUBLISHER: Society for Hawaiian Archaeology
+   :YEAR:     2010
+   :CROSSREF: zzz_dye10:_resear_desig_hawaiian_archaeol
+   :CHAPTER:  2
+   :PAGES:    93--155
+   :CUSTOM_ID: dye10:_tradit_hawaiian_surfac_archit
+   :END:
+** Research Designs for Hawaiian Archaeology: Agriculture, Architecture, Methodology
+   :PROPERTIES:
+   :TITLE:    Research Designs for Hawaiian Archaeology: Agriculture, Architecture, Methodology
+   :TYPE:     book
+   :EDITOR:   Thomas S. Dye
+   :PUBLISHER: Society for Hawaiian Archaeology
+   :YEAR:     2010
+   :NUMBER:   3
+   :SERIES:   Special Publication
+   :ADDRESS:  Honolulu
+   :CUSTOM_ID: zzz_dye10:_resear_desig_hawaiian_archaeol
+   :BOOKTITLE: Research Designs for Hawaiian Archaeology: Agriculture, Architecture, Methodology
+   :CROSSREF: zzz_dye10:_resear_desig_hawaiian_archaeol
+   :CHAPTER:  2
+   :PAGES:    93--155
+   :END:
+** The Archaeology of Time
+   :PROPERTIES:
+   :TITLE:    The Archaeology of Time
+   :TYPE:     book
+   :AUTHOR:   Gavin Lucas
+   :PUBLISHER: Routledge
+   :YEAR:     2005
+   :SERIES:   Themes in Archaeology
+   :ADDRESS:  New York
+   :CUSTOM_ID: lucas05:_archaeol_time
+   :END:
+* Digraph of field system                                          :noexport:
+** Source
+
+#+tblname: adj-lkfs
+|   | A | B | C | D | E | F | G | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q |
+| A |   |   |   |   |   |   |   | 1 |   |   |   |   |   |   |   |   |   |   | 1 |   |   |   |   |   |
+| B |   |   |   |   |   |   |   |   |   |   | 1 | 1 | 1 | 1 | 1 |   |   |   | 1 |   |   |   |   |   |
+| C |   |   |   |   |   |   |   |   | 1 |   | 1 |   |   | 1 |   |   |   |   |   |   |   |   |   |   |
+| D |   |   |   |   |   |   |   |   | 1 |   |   |   |   |   |   |   |   |   |   |   | 1 |   |   |   |
+| E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 1 |   |   |   |   |
+| G |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 1 |   |
+| a |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| b |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| c | 1 | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| d |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| e | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| f | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| g |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| h |   |   | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| i | 1 | 1 | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| j | 1 | 1 | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| k | 1 | 1 | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| l |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| m |   |   |   | 1 | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| n |   |   |   |   | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| o |   |   |   |   | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| p |   |   |   |   | 1 | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| q |   |   |   |   | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+#+tblname: lkfs-attrib
+|   | dated | symbol | group |
+| A |       | box    |       |
+| B | yes   | box    |     2 |
+| C | yes   | box    |     4 |
+| D |       | box    |       |
+| E |       | box    |       |
+| F | yes   | box    |       |
+| G |       | box    |       |
+| a | yes   |        |    5a |
+| b |       |        |       |
+| c | yes   |        |     1 |
+| d | yes   |        |    5b |
+| e | yes   |        |     3 |
+| f | yes   |        |     3 |
+| g | yes   |        |    5b |
+| h |       |        |       |
+| i | yes   |        |     1 |
+| j | yes   |        |     1 |
+| k | yes   |        |     1 |
+| l | yes   |        |    5a |
+| m |       |        |       |
+| n |       |        |       |
+| o | yes   |        |       |
+| p | yes   |        |       |
+| q | yes   |        |       |
+
+
+
+
+
+   It might be possible to indicate the groups with subgraphs.  I should
+   probably pass in two variables, one with the adjacency graph and the
+   other with layout attributes.
+
+#+source: dot-digraph
+#+header: :var width=6 :var height=4
+#+header: :var a=adj-lkfs
+#+header: :var b=lkfs-attrib
+#+begin_src python :results output :exports none
+  import string
+  print 'Digraph G {'
+  print 'size = "%s,%s";' %(width,height)
+  sg = {}
+  for i in range(len(b)):
+    if b[i][2] and b[i][2] == 'box':
+      print '%s [shape=box];' % b[i][0]
+    if b[i][1] == 'yes':
+        print '%s [style=filled, fillcolor = "lightgrey"];' % b[i][0]
+    if b[i][3] and i > 0:
+      if b[i][3] in sg.keys():
+        s = sg[b[i][3]]
+        s = s + '%s; ' % b[i][0]
+        sg[b[i][3]] = s
+      else:
+        sg[b[i][3]] = '%s; ' % b[i][0]
+  for k, v in sg.iteritems():
+    print 'subgraph cluster_%s {' % k
+    print '    node [style=filled];'
+    print '    %s' % v
+    print '    label = "Group %s";' % k
+    print '  }'
+
+  for i in range(len(a)):
+    for j in range(len(a[i])):
+      if a[i][j] == 1:
+        print '%s -> %s;' % (a[i][0],a[0][j])
+  print '}'
+
+#+end_src
+
+#+results: dot-digraph
+#+begin_example
+   Digraph G {
+   size = "6,4";
+   A [shape=box];
+   B [shape=box];
+   B [style=filled, fillcolor = "lightgrey"];
+   C [shape=box];
+   C [style=filled, fillcolor = "lightgrey"];
+   D [shape=box];
+   E [shape=box];
+   F [shape=box];
+   F [style=filled, fillcolor = "lightgrey"];
+   G [shape=box];
+   a [style=filled, fillcolor = "lightgrey"];
+   c [style=filled, fillcolor = "lightgrey"];
+   d [style=filled, fillcolor = "lightgrey"];
+   e [style=filled, fillcolor = "lightgrey"];
+   f [style=filled, fillcolor = "lightgrey"];
+   g [style=filled, fillcolor = "lightgrey"];
+   i [style=filled, fillcolor = "lightgrey"];
+   j [style=filled, fillcolor = "lightgrey"];
+   k [style=filled, fillcolor = "lightgrey"];
+   l [style=filled, fillcolor = "lightgrey"];
+   o [style=filled, fillcolor = "lightgrey"];
+   p [style=filled, fillcolor = "lightgrey"];
+   q [style=filled, fillcolor = "lightgrey"];
+   subgraph cluster_1 {
+   node [style=filled];
+   c; i; j; k;
+   label = "Group 1";
+   }
+   subgraph cluster_2 {
+   node [style=filled];
+   B;
+   label = "Group 2";
+   }
+   subgraph cluster_3 {
+   node [style=filled];
+   e; f;
+   label = "Group 3";
+   }
+   subgraph cluster_4 {
+   node [style=filled];
+   C;
+   label = "Group 4";
+   }
+   subgraph cluster_5a {
+   node [style=filled];
+   a; l;
+   label = "Group 5a";
+   }
+   subgraph cluster_5b {
+   node [style=filled];
+   d; g;
+   label = "Group 5b";
+   }
+   A -> a;
+   A -> l;
+   B -> d;
+   B -> e;
+   B -> f;
+   B -> g;
+   B -> h;
+   B -> l;
+   C -> b;
+   C -> d;
+   C -> g;
+   D -> b;
+   D -> n;
+   F -> m;
+   G -> p;
+   c -> A;
+   c -> B;
+   e -> A;
+   f -> A;
+   h -> C;
+   i -> A;
+   i -> B;
+   i -> C;
+   j -> A;
+   j -> B;
+   j -> C;
+   k -> A;
+   k -> B;
+   k -> C;
+   m -> D;
+   m -> E;
+   n -> E;
+   o -> E;
+   p -> E;
+   p -> F;
+   q -> E;
+   }
+#+end_example
+
+
+#+source: trans-red
+#+begin_src sh :var body=dot-digraph :results output
+echo $body > dot-temp.gv
+tred dot-temp.gv > dot-temp-tred.gv
+cat dot-temp-tred.gv
+rm dot-temp-tred.gv
+#+end_src
+
+#+results: trans-red
+#+begin_example
+   digraph G {
+   graph [size="6,4"];
+   subgraph cluster_1 {
+   graph [label="Group 1"];
+   node [style=filled];
+   c             [fillcolor=lightgrey,
+   style=filled];
+   i             [fillcolor=lightgrey,
+   style=filled];
+   j             [fillcolor=lightgrey,
+   style=filled];
+   k             [fillcolor=lightgrey,
+   style=filled];
+   }
+   subgraph cluster_2 {
+   graph [label="Group 2"];
+   node [style=filled];
+   B             [fillcolor=lightgrey,
+   shape=box,
+   style=filled];
+   }
+   subgraph cluster_3 {
+   graph [label="Group 3"];
+   node [style=filled];
+   e             [fillcolor=lightgrey,
+   style=filled];
+   f             [fillcolor=lightgrey,
+   style=filled];
+   }
+   subgraph cluster_4 {
+   graph [label="Group 4"];
+   node [style=filled];
+   C             [fillcolor=lightgrey,
+   shape=box,
+   style=filled];
+   }
+   subgraph cluster_5a {
+   graph [label="Group 5a"];
+   node [style=filled];
+   a             [fillcolor=lightgrey,
+   style=filled];
+   l             [fillcolor=lightgrey,
+   style=filled];
+   }
+   subgraph cluster_5b {
+   graph [label="Group 5b"];
+   node [style=filled];
+   d             [fillcolor=lightgrey,
+   style=filled];
+   g             [fillcolor=lightgrey,
+   style=filled];
+   }
+   A     [shape=box];
+   A -> a;
+   A -> l;
+   B -> e;
+   B -> f;
+   B -> h;
+   C -> d;
+   C -> g;
+   C -> b;
+   D     [shape=box];
+   D -> b;
+   D -> n;
+   E     [shape=box];
+   F     [fillcolor=lightgrey,
+   shape=box,
+   style=filled];
+   F -> m;
+   G     [shape=box];
+   p     [fillcolor=lightgrey,
+   style=filled];
+   G -> p;
+   c -> B;
+   e -> A;
+   f -> A;
+   i -> B;
+   j -> B;
+   k -> B;
+   o     [fillcolor=lightgrey,
+   style=filled];
+   o -> E;
+   p -> F;
+   q     [fillcolor=lightgrey,
+   style=filled];
+   q -> E;
+   h -> C;
+   n -> E;
+   m -> D;
+   }
+#+end_example
+
+#+source: make-dag
+#+headers: :file lkfs-dag.pdf :cmdline -Tpdf
+#+begin_src dot :var v=trans-red :results output
+    $v
+#+end_src
+
+#+results: make-dag
+[[file:lkfs-dag.pdf]]
+
+** Notes
+   The table adj-lkfs is an adjacency matrix of the LKFS, where a 1
+   indicates that the row feature is older than the column feature.
+
+   The table includes all the stratigraphic relationships that can be
+   gleaned from the map of the site.  It can be transformed into a matrix
+   where transitive relations are removed using an algorithm suggested by
+   Peter Langfelder on the comp.lang.r listserve.
+
+   Peter wrote:
+
+   On Mon, Jul 11, 2011 at 12:28 PM, Thomas S. Dye <tsd@tsdye.com> wrote:
+   > Aloha all,
+   >
+   > I have an adjacency matrix for an acyclic digraph that contains
+   > transitive relations, e.g. (u,v), (v,w), (u,w).  I want a DAG with only
+   > intransitive relations.  Can someone point me to an R function that will
+   > take my adjacency matrix and give me back one with only intransitive
+   > relations?  In the example, I'd like to get rid of (u,w) and keep (u,v)
+   > and (v,w).
+
+   I assume your adjacency matrix is unweighted, i.e. contains only
+   entries 0 and 1.
+
+   Don't know of a function, but the algorithm isn't very difficult - if
+   no one suggests a better way, just code it yourself. For example, for
+   3 variables, start with vector c(1, 0, 0). If you multiply it by the
+   adjacency matrix, you will get c(0, 1, 1), that is, u is connected to
+   v and w. If you multiply it by the adjacency again, you will get
+   c(0,0,1) because v is connected w but w is not connected to anything.
+   So you can get from u to w in two steps (via v) and so the link (u, w)
+   should be deleted. For a 3x3 adjacency that's all you get but if you
+   have more nodes, simply continue multiplying by the adjacency and
+   deleting edges from the starting link to whatever has a 1 in one of
+   the resulting vectors. You need to multiply at most n-1 times since an
+   DAG cannot have a path length more than n-1. Then do the same thing
+   starting from c(0,1,0), starting from c(0,0,1) etc.
+
+   If my algorithm doesn't work I apologize :)
+
+   HTH
+
+   Peter
+
+* Graphics                                                         :noexport:
+** Input tables
+
+#+tblname: lkfs-periods
+| beta-pre.csv     | Colonization    |
+| alpha-garden.csv | Expansion       |
+| beta-1.csv       | Intensification |
+| phi-abandon.csv  | Alienation      |
+
+#+tblname: tempo
+| alpha-garden-and-beta-pre.csv | Colonization    |
+| beta-1-and-alpha-garden.csv   | Expansion       |
+| beta-5b-and-beta-1.csv        | Intensification |
+| beta-post-and-beta-5b.csv     | Alienation      |
+
+#+tblname: feature-chronology
+| beta-1.csv  | Group 1  |
+| beta-2.csv  | Group 2  |
+| beta-3.csv  | Group 3  |
+| beta-4.csv  | Group 4  |
+| beta-5a.csv | Group 5a |
+| beta-5b.csv | Group 5b |
+
+#+tblname: trails
+| beta-2.csv | Earliest trail |
+| beta-4.csv | Later trail    |
+
+#+tblname: int
+| foo | bar |
+
+** Source code to plot intervals
+#+source: dated-interval-plot
+#+header: :file output.pdf
+#+header: :var bcal = int
+#+header: :var base.font = 11
+#+header: :var theme = "bw"
+#+header: :var xlabel = "Years"
+#+header: :var ylabel = "Probability"
+#+header: :width 6 :height 3
+#+begin_src R :results output graphics
+library(ggplot2)
+bcal.df <- data.frame(cal.BP=numeric(0),Posterior.probability=numeric(0),label=character(0))
+for (i in seq(dim(bcal)[1]))
+{
+ t <- read.csv(file=bcal[i,1])
+ t <- cbind(t,label=rep(bcal[i,2], dim(t)[1]))
+ bcal.df <- rbind(bcal.df,t)
+}
+switch(theme,
+    bw =, BW = theme_set(theme_bw(base_size=base.font)),
+    grey =, gray = theme_set(theme_grey(base_size=base.font)),
+    theme_set(theme_bw(base_size=base.font)))
+g <-  ggplot(bcal.df, aes(x=cal.BP, y=Posterior.probability))
+g + geom_bar(stat='identity') + xlab(xlabel) +
+ylab(ylabel) + facet_wrap(~ label)
+#+end_src
+
+** Source code to plot events
+#+source: dated-events-plot
+#+header: :var bcal=int
+#+header: :file blank.pdf
+#+header: :var base.font = 11
+#+header: :var xlabel = "Calendar Year AD"
+#+header: :var ylabel = "Probability"
+#+header: :var theme = "bw"
+#+header: :width 6 :height 3
+#+begin_src R :results output graphics
+library(ggplot2)
+bcal.df <- data.frame(cal.BP=numeric(0),Posterior.probability=numeric(0),label=character(0))
+for (i in seq(dim(bcal)[1]))
+{
+ t <- read.csv(file=bcal[i,1])
+ t <- cbind(t,label=rep(bcal[i,2], dim(t)[1]))
+ bcal.df <- rbind(bcal.df,t)
+}
+switch(theme,
+    bw =, BW = theme_set(theme_bw(base_size=base.font)),
+    grey =, gray = theme_set(theme_grey(base_size=base.font)),
+    theme_set(theme_bw(base_size=base.font)))
+g <-  ggplot(bcal.df, aes(x=1950 + cal.BP, y=Posterior.probability))
+g + geom_bar(stat='identity') + xlab(xlabel) +
+ylab(ylabel) + facet_wrap(~ label)
+#+end_src
+* Calibration model                                                :noexport:
+** Description
+   The digraph of the field system can be used as a guide to creating
+   calibration groups.  The digraph puts the dated features in relative
+   order, not absolute order, i.e., features at the same level aren't
+   necessarily the same age.  Groups are more restrictive than this, they
+   are formed on the basis of shared immediate parents/children.
+
+   Six groups of dated features can be formed, and these are indicated in
+   the [[Date table]] by the group column.  In addition, there are two
+   floating parameters, chronological components of the model that lack
+   associated \rc\space age determinations.  These are wall h and trail A.
+
+   Note that the following model can't be implemented precisely with
+   BCal.  The overlapping earlier/later pairs order both the boundaries,
+   we only specify one boundary relation, the \beta parameters.  So, our
+   analysis can't rely automatically on the \alpha parameters.  It will
+   require \alpha_1, however, as an estimate of the establishment of
+   swidden gardens in the LKFS.  The \rc\space age determinations for
+   this group include the two oldest dates, so it appears this limitation
+   of the BCal software won't have an effect on the calibration.
+
+    - \alpha_1 > \theta_{8 \dots 11} > \beta_1
+    - \alpha_2 > \theta_22 > \beta_2
+    - \alpha_3 > \theta_{12 \dots 14} > \beta_3
+    - \beta_2 > \phi_h > \beta_4
+    - \alpha_4 > \theta_23 > \beta_4
+    - \beta_3 > \phi_A > \beta_5a
+    - \alpha_5a > \theta_{15, 16} > \beta_5a
+    - \alpha_5b > \theta_{17, 18} > \beta_5b
+    - \beta_1 > \beta_2 > \beta_3
+    - \beta_4 > \beta_5b
+
+   This chronological model fits into the regional picture, as follows:
+
+   - [ ] \beta_pre > \alpha_1
+   - [ ] \beta_{5a, 5b} > \phi_abandon = AD 1850 \pm 10
+   - [ ] \beta_pre > \alpha_garden > \theta_{19-21, 25-28} > \beta_garden > \phi_abandon
+
+   In the analysis, the following relations will be important:
+- the time interval between \beta_pre and \alpha_garden is an estimate of the
+  hiatus between colonization of the islands and first use of the
+  field system for farming
+- the time interval between \alpha_1 and \beta_1 is an estimate of
+  the duration of the swidden gardening period
+- the time interval between \beta_1 and \beta_{5a, 5b} is an
+  estimate of the duration of the intensification period
+
+** Model checklist
+*** Groups [6/6]
+ - [X] group 1, 4 determinations
+ - [X] group 2, 1 determination
+ - [X] group 3, 3 determinations
+ - [X] group 4, 1 determination
+ - [X] group 5a, 2 determinations
+ - [X] group 5b, 2 determinations
+*** Floating parameters [3/3]
+ - [X] floating parameter h, uninformative prior
+ - [X] floating parameter A, uninformative prior
+ - [X] floating parameter abandon, 1850 \pm 10
+** Model results
+*** Individual parameters
+
+**** Field system facilities
+     67% HPD regions
+
+     | parameter | 67% HPD (AD) | 95% HPD (AD) |
+     |-----------+--------------+--------------|
+     | \beta_2   |   1690--1749 |   1680--1779 |
+     | \beta_3   |   1730--1799 |   1700--1819 |
+     | \beta_4   |   1770--1829 |   1730--1859 |
+     | \beta_5a  |   1810--1859 |   1770--1879 |
+     | \beta_5b  |   1810--1859 |   1770--1869 |
+
+
+     | parameter | 67% HPD (AD) | 95% HPD (AD) |
+     |-----------+--------------+--------------|
+     | \phi_h    |   1730--1789 |   1700--1819 |
+     | \phi_A    |   1770--1829 |   1730--1859 |
+     | \alpha_1  |   1300--1469 |              |
+     | \beta_1   |   1640--1729 |              |
+
+     95% HPD regions
+     parameter  HPD intervals (BC/AD)
+     beta 4      1730AD to 1859AD
+     beta 2      1680AD to 1779AD
+     beta 5b     1770AD to 1869AD
+     beta 3      1700AD to 1819AD
+     beta 5a     1770AD to 1879AD
+     phi h       1700AD to 1819AD
+     phi A       1730AD to 1859AD
+
+**** Beginning of gardening
+
+     This is 14 generations (20 yr generation):
+
+     95% HPD regions
+     parameter  HPD intervals (BC/AD)
+     alpha garden        1150AD to 1429AD
+
+     This is 6 generations (20 yr generation):
+
+     67% HPD regions
+     parameter  HPD intervals (BC/AD)
+     alpha garden        1290AD to 1409AD
+
+**** Colonization and Abandonment
+     95% HPD regions
+     parameter  HPD intervals (BC/AD)
+     beta pre    790AD to 1119AD
+     phi abandon         1840AD to 1879AD
+
+     67% HPD regions
+     parameter  HPD intervals (BC/AD)
+     beta pre    860AD to 1029AD
+     phi abandon         1850AD to 1869AD
+
+*** Elapsed time
+    67% HPD regions
+
+    | early         | late       | HPD intervals (years) |
+    | \beta_pre     | \garden    |              270--489 |
+    | \alpha_garden | \beta_1    |              260--419  |
+    | \beta_1       | \beta_5a,b |              100--189 |
+    | \beta_5a,b    | \beta_post |              100--139 |
+
+*** Outlier analysis
+
+#+tblname: outlier-analysis
+ | determination  | prior | posterior |
+ | Beta-208142    |   10% |        7% |
+ | Beta-189732    |   10% |       11% |
+ | Beta-208140    |   10% |        7% |
+ | Beta-208139    |   10% |        7% |
+ | Beta-208138    |   10% |       15% |
+ | Beta-189735    |   10% |       13% |
+ | Beta-189734    |   10% |       13% |
+ | Beta-189733    |   10% |        9% |
+ | Beta-208141    |   10% |       30% |
+ | Beta-189731    |   10% |       12% |
+ | Beta-189730    |   10% |       16% |
+ | Beta-189729    |   10% |        8% |
+ | Beta-189736    |   10% |        7% |
+ | Beta-233042    |   10% |       16% |
+ | Beta-135126    |   10% |        8% |
+ | CAMS-25560     |   10% |       12% |
+ | Beta-20852b    |   10% |       18% |
+ | NOSAMS-0809-26 |   10% |       13% |
+ | Beta-208143    |   10% |        7% |
+ | Beta-83313     |   10% |       10% |
+
+**** Is Beta-208141 an outlier?
+  Beta-2018141 was clearly identified by the procedure as the \rc\space
+     age determination most likely to represent an outlier.  Its posterior
+     probability of 30% represents an increase over the prior probability
+     that is about 2.5 times greater than the next highest one, Beta-20852b
+     with a posterior probability of 18%.  It might be tempting to toss it
+     out, as Ladefoged and Graves appear to have done, but there are
+     several reasons why this temptation should be resisted.  First, the
+     dating model typically has very few age determinations per group,
+     which makes it more difficult to identify outliers.  Second, is that
+     the charcoal under the walls and trail curbs was created during the
+     period of swidden gardening.  One might expect that much of the
+     charcoal in this deposit came from the initial forest clearing and
+     that later fallow periods contributed less.  This would be especially
+     true if the secondary growth during fallow was used as a source of
+     mulch and was not burned prior to initiation of a new cropping cycle.
+     If this situation, a random sample of the true ages of charred
+     materials under the walls and curbs would fairly regularly yield a
+     sample distribution similar to the one observed in the data.
+
+     This is clearly something that deserves more research and the
+     identification and dating of additional samples.
+
+*** Probability analysis
+**** The beginning of gardening in AD 1400
+     Query: An estimate of the probability that the year 1400 AD is later
+     than the event represented by alpha garden
+
+     Probability = 0.89937264
+
+**** The beginning of Group 1 intensification in AD 1600
+     Query: An estimate of the probability that the year 1600 AD is earlier
+     than the event represented by beta 1
+
+     Probability = 0.8413555
+
+**** The beginning of Group 1 intensification in AD 1650
+     Query: An estimate of the probability that the year 1650 AD is earlier
+     than the event represented by beta 1
+
+     Probability = 0.69250035
+
+* Tables                                                           :noexport:
+
+#+srcname: booktabs-notes
+#+begin_src emacs-lisp :var table='((:head) hline (:body)) :var notes='() :var align='() :var env="tabular" :var width='() :var lspace='() :noweb yes :results latex
+  (flet ((to-tab (tab)
+                 (orgtbl-to-generic
+                  (mapcar (lambda (lis)
+                            (if (listp lis)
+                                (mapcar (lambda (el)
+                                          (if (stringp el)
+                                              el
+                                            (format "%S" el))) lis)
+                              lis)) tab)
+                  (list :lend " \\\\" :sep " & " :hline "\\hline"))))
+    (org-fill-template
+     "
+    \\begin{%env}%width%align
+    \\toprule
+    %table
+    \\bottomrule%spacer
+    %notes
+    \\end{%env}\n"
+     (list
+      (cons "env"       (or env "table"))
+      (cons "width"     (if width (format "{%s}" width) ""))
+      (cons "align"     (if align (format "{%s}" align) ""))
+      (cons "spacer"    (if lspace "\\addlinespace" ""))
+      (cons "table"
+            ;; only use \midrule if it looks like there are column headers
+            (if (equal 'hline (second table))
+                (concat (to-tab (list (first table)))
+                        "\n\\midrule\n"
+                        (to-tab (cddr table)))
+              (to-tab table)))
+      (cons "notes" (if notes (to-tab notes) ""))
+      )))
+#+end_src
+
+** The tables
+
+#+tblname: dates
+| $\theta$\fn{1} | Feature\fn{2} | Group\fn{3} |  Beta- | CRA\fn{4}    | Outlier | KRC-\fn{5} |
+|----------------+---------------+-------------+--------+--------------+---------+------------|
+|              8 | i             | 1           | 189729 | 290 $\pm$ 40 | -2\%    |          1 |
+|              9 | j             | 1           | 189730 | 440 $\pm$ 40 | 6\%     |          2 |
+|             10 | k             | 1           | 189731 | 420 $\pm$ 40 | 2\%     |          3 |
+|             11 | c             | 1           | 208141 | 200 $\pm$ 40 | 20\%    |         22 |
+|             12 | e             | 3           | 208138 | 320 $\pm$ 40 | 5\%     |         19 |
+|             13 | f             | 3           | 208139 | 160 $\pm$ 40 | -3\%    |         20 |
+|             14 | e             | 3           | 208140 | 150 $\pm$ 40 | -3\%    |         21 |
+|             15 | l             | 5a          | 189732 | 210 $\pm$ 40 | 1\%     |          4 |
+|             16 | a             | 5a          | 208142 | 340 $\pm$ 40 | -3\%    |         23 |
+|             17 | d             | 5b          | 189734 | 250 $\pm$ 40 | 3\%     |          6 |
+|             18 | g             | 5b          | 189735 | 410 $\pm$ 40 | 3\%     |          7 |
+|             19 | p             | garden      | 189740 | 330 $\pm$ 40 | n/a     |         12 |
+|             20 | q             | garden      | 189741 | 150 $\pm$ 30 | n/a     |         13 |
+|             21 | o             | garden      | 189742 | 130 $\pm$ 30 | n/a     |         14 |
+|             22 | B             | 2           | 189733 | 130 $\pm$ 30 | -1\%    |          5 |
+|             23 | C             | 4           | 189736 | 140 $\pm$ 30 | -3\%    |          8 |
+|             24 | F             | garden      | 189743 | 210 $\pm$ 40 | n/a     |         15 |
+|             25 | T-12          | garden      | 189737 | 470 $\pm$ 40 | n/a     |          9 |
+|             26 | T-21          | garden      | 189745 | 460 $\pm$ 40 | n/a     |         17 |
+|             27 | T-22          | garden      | 206590 | 280 $\pm$ 40 | n/a     |         18 |
+|             28 | T-50          | garden      | 208143 | 580 $\pm$ 40 | n/a     |         24 |
+
+
+#+tblname: dates-fn
+| \multicolumn{7}{l}{\fn{1} See \url{http://www.tsdye.com}.}                              |
+| \multicolumn{7}{l}{\fn{2} See Figure~\ref{fig:diagram}.}                                |
+| \multicolumn{7}{l}{\fn{3} See Figure~\ref{fig:digraph} and \url{http://www.tsdye.com}.}  |
+| \multicolumn{7}{l}{\fn{4} Conventional \rc\ age \parencite{stuiver-polach77}.}          |
+| \multicolumn{7}{l}{\fn{5} Source: \textcite{ladefoged08:_variab_hawaii}.}               |
+
+
+* Other material                                                   :noexport:
+** Application of graph theory
+Application of the Harris matrix to the relative chronological
+relations among agricultural walls and trails in the detailed study
+area of the Leeward Kohala Field System yields a strictly
+chronological division of features into building phases.  Formulation
+of the Harris matrix in graph theoretic terms opens up a path for its
+potential application on a broader geographic scale than the detailed
+study area.  All that is required is a list of observed stratigraphic
+relations among uniquely identified features.  Much of the analysis
+can be automated with the aid of computer graph algorithms capable of
+dealing in a precise way with complex situations of virtually any
+size.
+
+
+** Trail construction sequences, 2003 and 2008
+   This table shows the ordering of the trails in 2003 and 2008.
+   Although 2008 distinguished 5 building phases, there were no phase 1
+   trails, so the trail construction sequence had 4 phases.  The 2003
+   model had four phases, labeled with letters.  I've changed the letters
+   to numbers and decremented by 1 the phases given to the trails in 2008
+   to produce similar development scales.  Out of the 7 trails shared by
+   the two analyses, 4 maintain their ranks and 3 others change.  Trails
+   A and B switch relative positions in the first and second phases and
+   trail F moves from the first phase to the third.
+
+   | Trail | 2003 name | 2003 | 2008 |
+   | A     |         8 | 1    |  2   |
+   | B     |         7 | 2    |  1   |
+   | C     |         6 | 4    |  4   |
+   | D     |         5 | 3    |  3   |
+   | E     |         4 | 4    |  4   |
+   | F     |         3 | 1    |  3   |
+   | G     |         2 | 2    |  2   |
+   |       |         1 | 3    |      |
+
+   Conclude that the ordering method doesn't yield stable results, but
+   appears to change depending on the area under consideration and
+   perhaps other factors, as well.
+
+** Comparison with L&G
+- Initial use possibly by 1290, certainly by 1430
+- probability 1290 contained in depositional phase 1 = 0.31
+- 1430 = 0.84
+- Two Phase 1 walls built by 1410-1630 (this is probably too strong
+   because it neglects the possibility that the youngest charcoal
+   under the wall was not dated--expect that older charcoal is present.)
+- The majority of the agricultural walls were built after 1660
+- Agreed, the probability that 1660 is contained in depositional
+  phase 1 = 0.82, thus it is very likely that Phase 1 walls were
+  still being built after this time (and thus that later phase walls
+  were also being built).
+** Space and Time in Kohala
+*** The Biocomplexity Project in Hawaiian Archaeology
+    Over the last several decades the great bulk of archaeological work in
+    Kohala has been performed within the context of cultural resources
+    management.  Overwhelmingly, this work is designed to satisfy a
+    developer's desire to meet minimum state standards at minimum cost.
+    As a result, the work is designed largely without reference to the
+    questions and research results that drive academic research in the
+    region.  This lack of integration, whose cause I place squarely on the
+    flawed design of state archaeology rules
+    [[parencite:dye04:_how_to_fix_inven_survey_rule]], makes it difficult for
+    academics to use the CRM literature productively.  Thus, the theory
+    and method worked out in the academy is often based on a partial
+    understanding of the documented archaeological record.
+    [[textcite:hommon10_watershed]] attempts to bridge this gap with a research
+    design for cultural resources management archaeologists.
+
+    The Biocomplexity Project has its genesis in the Lapakahi research
+    project carried out at the University of Hawai`i forty years ago.  The
+    settlement pattern approach that Roger Green brought to the Lapakahi
+    project has been fleshed out and extended, often brilliantly, by the
+    Biocomplexity Project.
+
+    The papers we've heard today represent attempts as the project winds
+    down to build upon the project's substantial results and to point in
+    new research directions.  I'd like to review them from two
+    perspectives, concentrating first on their contributions to our
+    understanding of variability across space, and then from the
+    perspective of how we understand change over time.
+*** Contributions to Understanding Space
+*** Contributions to Understanding Time
+*** Marxist Critique
+    The Biocomplexity project has, to a certain extent, situated its
+    investigation of change within the emergence of state politics in
+    Hawai`i.  This line of inquiry concerns itself with how society's
+    elite organize themselves to govern, how authority is legitimated and
+    enforced, etc.  From this point of view, the change from a typical
+    Polynesian lineage organization seems revolutionary, or as an
+    "ultimate crisis between a society organized on the principles of
+    kinship, and one dictated by the structures of hierarchy and chiefly
+    power" (Field et al. p. 54).  What is missing from this analysis is
+    the content of the changes.  How did daily practice change during and
+    after the "ultimate crisis?"  Note first that the theory doesn't
+    predict any change in the content of relations.  All that is required
+    is that an ali`i assert some claim outside the bounds of traditional
+    lineage practice--"I lay claim to your ho`okupu for reasons other than
+    our connection as kin."  The ho`okupu being claimed by the political
+    ali`i might be exactly what the ali`i related as kin would have
+    claimed.  The organizational crisis that gave birth to the state might
+    have made very little difference in the daily life of a maka`ainana.
+
+    I bring this up because I think we need to hold open the possibility
+    that many of the day-to-day practices worked out over generations in
+    the context of the old lineage organization were still active after
+    the organizational crisis and the emergence of the state.  In my view,
+    this is what McCoy et al. have shown with the distribution of
+    Pu`uwa`awa`a glass and what Mills and his colleagues are showing with
+    the slowly emerging picture of adze rock distribution.  McCoy's work
+    is especially impressive.  Mills's still missing source data.
+
+    The framework of the state is an abstraction.  What was the content?
+    How did this change?
+*** Ladefoged and Graves (2008)
+    [[file:~/Desktop/reprints/Ladefoged-and-Graves-2008.pdf][Ladefoged and Graves]]
+- Chronology of ag. development in Kohala
+
+*** Work plan
+**** Find articles that cite Ladefoged and Graves
+**** Check citing articles for how they interpret ad hoc claims
+***** Table with column for each claim
+***** One row per citing article
+**** Contrast two approaches in Discussion
+ - Abstract vs. concrete
+ - What is modeled
+ - How uncertainty is handled
+*** Analysis of LKFS
+**** Calibration results 1                                         :noexport:
+- kohala/ladefoged-graves-2008
+- Title:     ladefoged-graves-2008
+- \phi_1 = \textsc{AD} 800 \pm 50
+- \phi_2 = \textsc{AD} 1830 \pm 20
+
+  67% HPD regions
+
+  parameter  HPD intervals (BC/AD)
+  alpha 1    1272AD to 1456AD
+  beta 1     1659AD to 1732AD
+  beta 2     1726AD to 1785AD
+  beta 3     1751AD to 1809AD
+  beta 4     1779AD to 1829AD
+  beta 5     1804AD to 1849AD
+
+  p beta 1 < AD 1779 = 0.03
+  p beta 2 < AD 1779 = 0.20
+  p beta 3 < AD 1779 = 0.48
+  p beta 4 < AD 1779 = 0.79
+  p beta 5 < AD 1779 = 0.95
+
+***** DONE Check abandonment data for coastal Kaiholena
+      CLOSED: [2010-05-04 Tue 15:56]
+      :LOGBOOK:
+  - State "DONE"       from "TODO"       [2010-05-04 Tue 15:56]
+      :END:
+  - When was Ellis through the region?
+  - Did he go through during the season kanaka maoli might be
+    expected to be at the coast?
+  - Check the date of his tour against one of the Hawaiian
+    calendars, planting season or no?
+  - Did Ellis see ruins or just empty houses?
+**** Calibration results 2
+- kohala/ladefoged-graves-2008-ellis
+- Title:     ladefoged-graves-2008-ellis
+- \phi_1 = \textsc{AD} 850 \pm 50
+- \phi_2 = \textsc{AD} 1823
+  67% HPD regions
+
+  parameter  HPD intervals (BC/AD)
+  alpha 5 1561AD to 1628AD
+  alpha 1 1281AD to 1298AD, 1300AD to 1456AD
+  beta 1     1661AD to 1730AD
+  beta 2     1725AD to 1775AD
+  beta 3     1747AD to 1796AD
+  beta 4     1778AD to 1814AD
+  beta 5     1804AD to 1822AD
+
+  p beta 1 < AD 1779 = 0.01
+  p beta 2 < AD 1779 = 0.09
+  p beta 3 < AD 1779 = 0.32
+  p beta 4 < AD 1779 = 0.67
+  p beta 5 < AD 1779 = 0.92
+
+  p alpha 1 > AD 1779 > beta 1 = 0.01
+  p alpha 2 > AD 1779 > beta 2 = 0.10
+  p alpha 3 > AD 1779 > beta 3 = 0.33
+  p alpha 4 > AD 1779 > beta 4 = 0.69
+  p alpha 5 > AD 1779 > beta 5 = 0.92
+
+  duration 1 = 147-650 years
+  duration 2 = 143-461 years
+  duration 3 = 138-389 years
+  duration 4 = 120-345 years
+  duration 5 = 109-310 years
+
+
+**** Interpretation
+ - This is really interesting
+ - The first phase of elaboration in the Kohala field system ended
+   in the latter half of the seventeenth century or early in the
+   eighteenth century
+ - The bulk of the elaboration, if not all of it, was accomplished
+   during the eighteenth century
+ - Much of it was clearly post-Cook
+
+
+**** DONE Note that alpha parameters are not usefully modeled, contact Caitlin
+     CLOSED: [2010-05-04 Tue 15:56]
+     :LOGBOOK:
+ - State "DONE"       from "TODO"       [2010-05-04 Tue 15:56]
+     :END:
+** Original conclusion
+   The model based calibration provides a framework for estimating the
+   chronology of use and development of the leeward Kohala field system
+   in the context of Polynesian settlement.  The history of the leeward
+   Kohala field system is divided into three periods: an initial period
+   after Polynesian settlement when the area was either unused or used at
+   such a low level of intensity that archaeologists have not been able
+   to detect it; a period of use prior to the construction of
+   agricultural walls; and, finally, construction of the walls that
+   characterize the field system as it is known to us today.  The
+   Bayesian calibration is used to estimate the duration of the three
+   periods, in order to illustrate the tempo of change and to indicate
+   the uncertainty of the estimates.
+
+   The results of the calibration indicate that, for most of its history,
+   the area of the leeward Kohala field system was either unused, or used
+   in a way that didn't include construction of agricultural walls (table
+   \ref{tab:duration}).  The results of the Bayesian calibration are
+   relatively imprecise at this stage of the investigation and analysis
+   of the leeward Kohala field system.  The pre-use period may have been
+   as short as two centuries or as long as seven.  Use of the area before
+   walls were constructed might have been a relatively brief century and
+   a half, or it could have been six and a half.  In contrast, the period
+   of wall construction was relatively brief, covering at most the final
+   two centuries of the traditional Hawaiian era, but possibly as short
+   as 50 years.  The ability to measure the uncertainty of a cultural
+   chronology is one of the real benefits of a model-based analysis.
+
+#+CAPTION: Cultural periods and their estimated durations
+#+LABEL: tab:duration
+
+   | Early parameter | Late parameter | Period       | Duration |
+   |-----------------+----------------+--------------+----------|
+   | \phi_1          | \alpha_1       | pre-use      |  195-686 |
+   | \alpha_1        | \beta_1        | pre-wall use |  147-650 |
+   | \beta_1         | \phi_2         | wall use     |   50-217 |
+
+   The model-based calibration points the way to future research in the
+   leeward Kohala field system.  The most pressing need at this point is
+   dates from contexts associated with the pre-use and wall use periods.
+   Improvements to the precision of estimates for \alpha_1 and \beta_1
+   can be expected to have a beneficial effect on the precision of the
+   cultural chronology as a whole.
+
+   Charcoal from the pre-use period might be identifiable
+   stratigraphically as pockets of charcoal left from initial clearing of
+   the dryland forest presumably growing here before the area was cleared
+   for agriculture.  Lacking this fortuitous stratigraphic information,
+   however, a detailed analysis of wood charcoal might identify taxa
+   reasonably believed to have been part of the dryland forest, but a
+   priori unlikely to have been part of the secondary growth during
+   fallow periods.  Dated material from the pre-use period will
+   potentially constrain the long early tails on the estimates of
+   \alpha_1, and in this way reduce the uncertainty of time estimates for
+   both the pre-use and pre-wall use periods.
+
+   Similarly, dated contexts associated with the period of wall use can
+   be used to constrain the estimated age of \beta_1.  Such material
+   might already be available from habitation contexts where an enclosing
+   wall or some other structure is stratigraphically superior to an old
+   agricultural wall.  Although the constraints introduced by dated
+   contexts in the wall use period are likely to have less effect on the
+   cultural chronology than dates from the pre-use period, they will go a
+   long way to ameliorating the effects on calibration of the Industrial
+   Revolution, which flattened the recent end of the calibration curve.
+   Here, the more stratigraphic information that can be introduced to the
+   calibration, the better.
+
+
+   In this vein, it might be worthwhile to carry out an intensive dating
+   project in a local area small enough to ensure that the wall
+   construction chronology uniquely orders the agricultural walls.  Such
+   a project would try to secure for dating the /youngest/ material
+   beneath each wall, so that the resulting estimate of when the wall was
+   built is as precise as possible.  One step might be to date only
+   materials likely to have grown as weeds during the period of pre-wall
+   use to minimize the probability that re-worked older material from
+   initial clearing is dated inadvertently.  Even with this approach,
+   however, it seems likely that the problem of securing the youngest
+   material beneath each wall will require some sort of a sampling
+   approach, which is likely to be expensive.
+
+* Notes                                                            :noexport:
+
+** Kirch reference
+Feathers p. 234, Fig. 202 for the Paul Rosendahl map
+
+** SQLite
+*** BCal results
+
+**** General idea
+     Use R to read the CSV files from BCal, normalize them with a
+     descriptive label using this record structure, and save to SQLite table:
+- id : integer
+- label : char[25]
+- phase : integer
+- cal.BP : integer
+- posterior.probability : float
+  The tables will be used subsequently to create plots.  There should be
+  information for one plot per SQLite table.
+
+**** Test data
+
+#+tblname: test
+| beta-2.csv  | Beta 2  |
+| alpha-2.csv | Alpha 2 |
+
+**** Dated events
+#+source: dated-events-plot
+#+header: :var bcal=test
+#+header: :file blank.pdf
+#+header: :var base.font = 11
+#+header: :var xlabel = "Calendar Year AD"
+#+header: :var ylabel = "Probability"
+#+header: :var theme = "bw"
+#+header: :width 6 :height 3
+#+begin_src R :results output graphics
+  library(ggplot2)
+  bcal.df <- data.frame(cal.BP=numeric(0),Posterior.probability=numeric(0),label=character(0))
+  for (i in seq(dim(bcal)[1]))
+  {
+    t <- read.csv(file=bcal[i,1])
+    t <- cbind(t,label=rep(bcal[i,2], dim(t)[1]))
+    bcal.df <- rbind(bcal.df,t)
+  }
+  switch(theme,
+         bw =, BW = theme_set(theme_bw(base_size=base.font)),
+         grey =, gray = theme_set(theme_grey(base_size=base.font)),
+         theme_set(theme_bw(base_size=base.font)))
+  g <-  ggplot(bcal.df, aes(x=1950 + cal.BP, y=Posterior.probability))
+  g + geom_bar(stat='identity') + xlab(xlabel) +
+    ylab(ylabel) + facet_wrap(~ label)
+#+end_src
+
+#+call: dated-events-plot[:file out.pdf](bcal=test) :results file
+
+#+tblname: int
+| alpha-2-and-beta-3.csv | Hiatus A |
+| alpha-3-and-phi-2.csv  | Hiatus B |
+
+**** Dated interval
+#+source: dated-interval-plot
+#+header: :file output.pdf
+#+header: :var bcal = int
+#+header: :var base.font = 11
+#+header: :var theme = "bw"
+#+header: :var xlabel = "Years"
+#+header: :var ylabel = "Probability"
+#+header: :width 6 :height 3
+#+begin_src R :results output graphics
+  library(ggplot2)
+  bcal.df <- data.frame(cal.BP=numeric(0),Posterior.probability=numeric(0),label=character(0))
+  for (i in seq(dim(bcal)[1]))
+  {
+    t <- read.csv(file=bcal[i,1])
+    t <- cbind(t,label=rep(bcal[i,2], dim(t)[1]))
+    bcal.df <- rbind(bcal.df,t)
+  }
+  switch(theme,
+         bw =, BW = theme_set(theme_bw(base_size=base.font)),
+         grey =, gray = theme_set(theme_grey(base_size=base.font)),
+         theme_set(theme_bw(base_size=base.font)))
+  g <-  ggplot(bcal.df, aes(x=cal.BP, y=Posterior.probability))
+  g + geom_bar(stat='identity') + xlab(xlabel) +
+    ylab(ylabel) + facet_wrap(~ label)
+#+end_src
+
+#+results: dated-interval-plot
+[[file:output.pdf]]
+
+#+call: dated-interval-plot[:file out-int.pdf](bcal=int, theme="gray") :results file
+
+
+
+*** 14C plots
+    Revise the 14C plotting routines so they each take a SQLite table as
+    input and plot all the results in the table.
+
+*** Bootstrap results
+    Use or generate a population of walls by phase. Generate the phases in
+    order.  For each wall, randomly select a BCal result from the same
+    phase and randomly select a construction date from cal.BP weighted by
+    the posterior.probability and subject to the condition that it cannot
+    be older than the oldest wall of the previous phase.  Place the result
+    in a SQLite record with this structure:
+- id : integer
+- run : integer
+- phase : integer
+- cal.BP : integer
+  and store each record in a database named for the experiment.
+
+**** Graphic to summarize each bootstrap run
+Write a graph routine that shows a barchart of wall construction
+events by phase.  Use this to look at the results of each run.
+
+**** Graphic to summarize each bootstrap experiment
+This can be a series of box and whisker plots that show the
+distribution for each interval, regardless of wall phase.  Or, could
+generate one for each wall phase.
+
+** Queries for Thegn (or his published works)
+
+*** Distribution of walls by phase
+- LKFS
+- Two ahupua`a with dates
+  Need how many walls in each phase.
+  Are these samples or populations?
+  If they are samples, then I'll need an estimate of now many walls
+  there are so I can bootstrap the right sizes
+  If they are populations, then I'll use them directly as guides for the
+  bootstrap
+** Thegn's chronology                                                  :NOTE:
+   [2011-06-29 Wed]
+   [[gnus:nnml:Inbox#901DE008BCCCF0428E41216E43CED6C90BAB409A@ARTSMAIL7.ARTSNET.AUCKLAND.AC.NZ][Email from Thegn Ladefoged: RE: RNJ]]
+
+
+** Thegn's comments
+   - Discrepancy between 2003 and 2008 due to results of new fieldwork
+   - Deal with issue that dating program is only one part of the field
+     system and Pat and others are talking about the field system as a
+     whole. 
+   - Got rid of discarded silently.
+
+*** Removed this material
+
+Table \ref{tab:trails} shows the different ordering of the trails in
+the detailed study area at P\=ahinahina and Kahua 1, keyed to Figure
+\ref{fig:diagram}.  The order proposed by
+[[textcite:ladefoged03:_archaeol_eviden_for_agric_devel]] is shown in
+the third column of the table, and the order proposed by
+[[textcite:ladefoged08:_variab_hawaii]] is shown in the fourth column
+of the table.  For ease of
+comparison, columns 3 and 4 in the table indicate the relative
+ordering of the trails on a common scale.  Comparison of these
+columns shows that four of the seven trails shared by the two analyses
+maintain their ranks and three change.  Trails /A/ and /B/
+(fig. \ref{fig:diagram}) switch relative positions in the first two
+trail building phases.  The change is more dramatic for trail /F/
+(fig. \ref{fig:diagram}), which moves from the first building phase
+to the third.  These results indicate that the procedures used over
+the years by Ladefoged, Graves, and their colleagues haven't yielded
+consistent chronological results.
+
+#+CAPTION: Ordering of trail construction events
+#+LABEL: tab:trails
+#+ATTR_LaTex:  align=cccc placement=[<options>]\footnotesize
+#+tblname: trails
+
+| Trail                    |  2003 |  2003 |  2008 |
+| (fig. \ref{fig:diagram}) | label | order | order |
+|--------------------------+-------+-------+-------|
+| A                        |     8 |     1 |     2 |
+| B                        |     7 |     2 |     1 |
+| C                        |     6 |     4 |     4 |
+| D                        |     5 |     3 |     3 |
+| E                        |     4 |     4 |     4 |
+| F                        |     3 |     1 |     3 |
+| G                        |     2 |     2 |     2 |
+
+* Org-mode setup                                                   :noexport:
+#+source: setup
+#+begin_src emacs-lisp :noweb yes :results silent
+  (setq org-export-latex-hyperref-format "\\ref{%s}")
+  (setq org-entities-user '(("space" "\\ " nil " " " " " " " ")))
+  (setq org-latex-to-pdf-process '("texi2dvi --pdf --clean --verbose --batch %f"))
+  (require 'org-special-blocks)
+  (defun org-export-latex-no-toc (depth)
+    (when depth
+      (format "%% Org-mode is exporting headings to %s levels.\n"
+              depth)))
+  (setq org-export-latex-format-toc-function 'org-export-latex-no-toc)
+  (setq org-export-pdf-remove-logfiles nil)
+  <<latex-link>>
+  <<define-standard-biblatex-commands>>
+  <<define-style-specific-biblatex-commands>>
+#+end_src
+
+#+source: bibinputs
+#+begin_src sh :exports none :results silent
+BIBINPUTS=/Public/projects/914_tempo/:$BIBINPUTS
+export BIBINPUTS
+#+end_src
+
+** LaTeX link type
+#+source: latex-link
+#+begin_src emacs-lisp :results silent
+  (org-add-link-type
+   "latex" nil
+   (lambda (path desc format)
+     (cond
+      ((eq format 'html)
+       (format "<span class=\"%s\">%s</span>" path desc))
+      ((eq format 'latex)
+       (format "\\%s{%s}" path desc)))))
+#+end_src
+
+** Standard Biblatex citation commands
+
+#+source: define-standard-biblatex-commands
+#+begin_src emacs-lisp :noweb yes :results silent :exports none
+  <<define-biblatex-cite-link>>
+  <<define-biblatex-cap-cite-link>>
+  <<define-biblatex-parencite-link>>
+  <<define-biblatex-cap-parencite-link>>
+  <<define-biblatex-footcite-link>>
+  <<define-biblatex-footcitetext-link>>
+
+#+end_src
+
+#+source: define-biblatex-cite-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "cite" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'html)
+       (format "(<cite>%s</cite>)" path))
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "cite:" desc)))
+           (format "\\cite{%s}" path)
+         (format "\\cite[%s][%s]{%s}"
+                 (cadr (split-string desc ";"))
+                 (car (split-string desc ";"))  path))))))
+#+end_src
+
+#+source: define-biblatex-cap-cite-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "Cite" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'html)
+       (format "(<cite>%s</cite>)" path))
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "Cite:" desc)))
+           (format "\\Cite{%s}" path)
+         (format "\\Cite[%s][%s]{%s}"
+                 (cadr (split-string desc ";"))
+                 (car (split-string desc ";"))  path))))))
+#+end_src
+
+#+source: define-biblatex-parencite-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "parencite" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'html)
+       (format "(<cite>%s</cite>)" path))
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "parencite:" desc)))
+           (format "\\parencite{%s}" path)
+         (format "\\parencite[%s][%s]{%s}"
+                 (cadr (split-string desc ";"))
+                 (car (split-string desc ";"))  path))))))
+#+end_src
+
+#+source: define-biblatex-cap-parencite-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "Parencite" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'html)
+       (format "(<cite>%s</cite>)" path))
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "Parencite:" desc)))
+           (format "\\Parencite{%s}" path)
+         (format "\\Parencite[%s][%s]{%s}"
+                 (cadr (split-string desc ";"))
+                 (car (split-string desc ";"))  path))))))
+#+end_src
+
+#+source: define-biblatex-footcite-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "footcite" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'html)
+       (format "(<cite>%s</cite>)" path))
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "footcite:" desc)))
+           (format "\\footcite{%s}" path)
+         (format "\\footcite[%s][%s]{%s}"
+                 (cadr (split-string desc ";"))
+                 (car (split-string desc ";"))  path))))))
+#+end_src
+
+#+source: define-biblatex-footcitetext-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "footcitetext" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'html)
+       (format "(<cite>%s</cite>)" path))
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "footcitetext:" desc)))
+           (format "\\footcitetext{%s}" path)
+         (format "\\footcitetext[%s][%s]{%s}"
+                 (cadr (split-string desc ";"))
+                 (car (split-string desc ";"))  path))))))
+#+end_src
+
+** Style-specific biblatex commands
+
+#+source: define-style-specific-biblatex-commands
+#+begin_src emacs-lisp :noweb yes :results silent :exports none
+  <<define-biblatex-textcite-link>>
+  <<define-biblatex-cap-textcite-link>>
+  <<define-biblatex-smartcite-link>>
+  <<define-biblatex-cap-smartcite-link>>
+  <<define-biblatex-citestar-link>>
+  <<define-biblatex-parencitestar-link>>
+  <<define-biblatex-supercite-link>>
+  <<define-biblatex-multicite-link>>
+#+end_src
+
+#+source: define-biblatex-multicite-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "multicite" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'html)
+       (format "(<cite>%s</cite>)" path))
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "multicite:" desc)))
+           (format "{%s}" path)
+         (format "[%s][%s]{%s}"
+                 (cadr (split-string desc ";"))
+                 (car (split-string desc ";"))  path))))))
+  
+#+end_src
+
+#+source: define-biblatex-textcite-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "textcite" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'html)
+       (format "(<cite>%s</cite>)" path))
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "textcite:" desc)))
+           (format "\\textcite{%s}" path)
+         (format "\\textcite[%s][%s]{%s}"
+                 (cadr (split-string desc ";"))
+                 (car (split-string desc ";"))  path))))))
+#+end_src
+
+#+source: define-biblatex-cap-textcite-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "Textcite" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'html)
+       (format "(<cite>%s</cite>)" path))
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "Textcite:" desc)))
+           (format "\\Textcite{%s}" path)
+         (format "\\Textcite[%s][%s]{%s}"
+                 (cadr (split-string desc ";"))
+                 (car (split-string desc ";"))  path))))))
+#+end_src
+
+#+source: define-biblatex-smartcite-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "smartcite" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'html)
+       (format "(<cite>%s</cite>)" path))
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "smartcite:" desc)))
+           (format "\\smartcite{%s}" path)
+         (format "\\smartcite[%s][%s]{%s}"
+                 (cadr (split-string desc ";"))
+                 (car (split-string desc ";"))  path))))))
+#+end_src
+
+#+source: define-biblatex-cap-smartcite-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "Smartcite" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'html)
+       (format "(<cite>%s</cite>)" path))
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "Smartcite:" desc)))
+           (format "\\Smartcite{%s}" path)
+         (format "\\Smartcite[%s][%s]{%s}"
+                 (cadr (split-string desc ";"))
+                 (car (split-string desc ";"))  path))))))
+#+end_src
+
+#+source: define-biblatex-citestar-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "cite*" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'html)
+       (format "(<cite>%s</cite>)" path))
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "cite*:" desc)))
+           (format "\\cite*{%s}" path)
+         (format "\\cite*[%s][%s]{%s}"
+                 (cadr (split-string desc ";"))
+                 (car (split-string desc ";"))  path))))))
+#+end_src
+
+#+source: define-biblatex-parencitestar-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "parencite*" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'html)
+       (format "(<cite>%s</cite>)" path))
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "parencite*:" desc)))
+           (format "\\parencite*{%s}" path)
+         (format "\\parencite*[%s][%s]{%s}"
+                 (cadr (split-string desc ";"))
+                 (car (split-string desc ";"))  path))))))
+#+end_src
+
+#+source: define-biblatex-supercite-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "supercite" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'html)
+       (format "(<cite>%s</cite>)" path))
+      ((eq format 'latex)
+       (format "\\cite*{%s}" path)))))
+#+end_src
+
+
+** Natbib citation commands
+The citation commands supported by natbib all start with =cite= and
+end with one or more letters that indicate a style.  The most commonly
+used commands are:
+  1. [[latex:progstruct][citep]] for parenthetical citations, e.g., (Jones, 1958);
+  2. [[latex:progstruct][citet]] for textual citations, e.g., Jones (1958);
+  3. [[latex:progstruct][citealt]] for textual citations without parentheses, e.g. Jones 1958.
+There are starred versions of most commands that will output the full
+author lists rather than use the abbreviation =et. al.=
+
+#+source: natbib-links
+#+begin_src emacs-lisp :noweb yes :results silent :exports none
+  <<define-citep-link>>
+  <<define-citet-link>>
+  <<define-citealt-link>>
+  <<define-citealp-link>>
+  <<define-citealtstar-link>>
+  <<define-citealpstar-link>>
+  <<define-citepstar-link>>
+  <<define-citetstar-link>>
+#+end_src
+
+#+source: define-citep-link
+#+begin_src emacs-lisp :results silent :exports none
+    (org-add-link-type 
+     "citep" 'ebib
+     (lambda (path desc format)
+       (cond
+        ((eq format 'html)
+         (format "(<cite>%s</cite>)" path))
+        ((eq format 'latex)
+         (if (or (not desc) (equal 0 (search "citep:" desc)))
+               (format "\\citep{%s}" path)
+               (format "\\citep[%s][%s]{%s}" (cadr (split-string desc
+     ";")) (car (split-string desc ";"))  path)
+  )))))
+#+end_src
+
+#+source: define-citet-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "citet" 'ebib
+   (lambda (path desc format)
+     (cond
+        ((eq format 'html)
+         (format "<cite>%s</cite>" path))
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "citet:" desc)))
+             (format "\\citet{%s}" path)
+               (format "\\citet[%s][%s]{%s}" (cadr (split-string desc
+     ";")) (car (split-string desc ";"))  path)
+)))))
+#+end_src
+
+#+source: define-citealt-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "citealt" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "citealt:" desc)))
+             (format "\\citealt{%s}" path)
+             (format "\\citealt[%s]{%s}" desc path)
+)))))
+#+end_src
+
+#+source: define-citealp-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "citealp" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "citealp:" desc)))
+           (format "\\citealp{%s}" path)
+         (format "\\citealp[%s]{%s}" desc path)
+         )))))
+#+end_src
+
+#+source: define-citealtstar-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "citealt*" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "citealt*:" desc)))
+           (format "\\citealt*{%s}" path)
+         (format "\\citealt*[%s]{%s}" desc path)
+         )))))
+#+end_src
+
+#+source: define-citealpstar-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "citealp*" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "citealp*:" desc)))
+           (format "\\citealp*{%s}" path)
+         (format "\\citealp*[%s]{%s}" desc path)
+         )))))
+#+end_src
+
+#+source: define-citepstar-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "citep*" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "citep*:" desc)))
+           (format "\\citep*{%s}" path)
+         (format "\\citep*[%s]{%s}" desc path)
+         )))))
+#+end_src
+
+#+source: define-citetstar-link
+#+begin_src emacs-lisp :results silent :exports none
+  (org-add-link-type 
+   "citet*" 'ebib
+   (lambda (path desc format)
+     (cond
+      ((eq format 'latex)
+       (if (or (not desc) (equal 0 (search "citet*:" desc)))
+             (format "\\citet*{%s}" path)
+             (format "\\citet*[%s]{%s}" desc path)
+)))))
+#+end_src

@@ -1,0 +1,16 @@
+tempo.log
+tempo.pdf
+tempo.tex
+tempo.tex~
+tempo-blx.bib
+lkfs-features.pdf
+lkfs-periods.pdf
+lkfs-tempo.pdf
+*.aux
+*.bbl
+*.blg
+*.lot
+*.lof
+*.out
+*.xml
+*.toc

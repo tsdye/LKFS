@@ -289,7 +289,7 @@ stratigraphic model.
 #+call: make-dag() :results file
 
 #+results: make-dag()
-[[file:/Users/dk/Public/projects/914_tempo/lkfs-dag.pdf]]
+[[file:lkfs-dag.pdf]]
 
 
 Figure \ref{fig:digraph} is laid out with the arrows pointing down, so
@@ -474,7 +474,7 @@ analysis as an outlier is the age determination associated with wall
 /c/.  [[textcite:ladefoged08:_variab_hawaii][779;]] don't discuss this
 particular age determination and it appears not to have played a role
 in their interpretation of the dating results.  However, there are
-several reasons why this age determination should not be ignored as
+several reasons why this age determination should not be treated as
 an outlier:
    1. the dating model typically has few age determinations per group
       and this makes outlier determination less reliable than it would
@@ -1344,8 +1344,6 @@ rm dot-temp-tred.gv
     $v
 #+end_src
 
-#+results: make-dag
-[[file:lkfs-dag.pdf]]
 
 ** Notes
    The table adj-lkfs is an adjacency matrix of the LKFS, where a 1

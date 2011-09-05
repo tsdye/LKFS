@@ -176,33 +176,18 @@ to expect.
 
 * Relative Chronology of Field System Development
 
-The history of archaeological investigation of the Leeward Kohala
-Field System, beginning with the work of [[textcite:newman70][;]] in
-the 1960's and extending through the detailed investigations of the
-Hawai`i Biocomplexity Project is admirably summarized by
-[[textcite:ladefoged:_leewar_kohal_field_system]].  Investigation of
-relative chronological relations among the field system features was
-initiated by [[textcite:rosendahl72]], who pointed out that trails
-that ran over a wall were younger than the wall, and that walls that
-abutted a trail were younger than the trail.  The great potential of
-the approach was impressed on archaeologists by Kirch's publication of
-a graphic that showed a portion of the field system at three points in
-time \parencites[[multicite:kirch85][234;]][[multicite:kirch84][185;]].
-[[textcite:ladefoged00:_kohala_fields]] suggested that the process of
-ordering features could be simplified if wall length were used as a
-proxy for age.  They later compared this simplified method unfavorably
-to more detailed methods that relied on stratigraphic relations
-[[parencite:ladefoged:_leewar_kohal_field_system][100;]].
-[[textcite:ladefoged03:_archaeol_eviden_for_agric_devel]] returned to
-the detailed stratigraphic relations in three study areas, including
-the one at P\=ahinahina and Kahua 1 that was later the site of a
-detailed dating program (fig. \ref{fig:diagram}).  This work proposed
-a series of rules that could be used to assign field system features
-to one of four temporal phases.  Later, when the P\=ahinahina and
-Kahua 1 study area was selected for excavation and detailed dating,
-additional field observations led to a five phase proposal
-[[parencite:ladefoged08:_variab_hawaii]], which differed from the
-earlier phasing.
+The relative chronology of field system development in the detailed
+study area (fig. \ref{fig:diagram}) has been addressed in two
+publications \parencites
+[[multicite:ladefoged03:_archaeol_eviden_for_agric_devel][;]]
+[[multicite:ladefoged08:_variab_hawaii][;]].  In these cases, the
+field system features were assigned to building phases or temporal
+units, two similar analytic constructs that group features based on
+stratigraphic relations and a set of propositions or assumptions
+independent of the stratigraphic relations.  The chronological model
+used in the Bayesian calibration is based solely on stratigraphic
+relations, so it can't be based on the published building phases or
+temporal units.
 
 #+BEGIN_LaTeX
 \begin{figure}[htb!] 
@@ -213,46 +198,24 @@ earlier phasing.
 area]{\label{fig:diagram}Diagram of the detailed study area.  Uphill
 is toward the top of the diagram.  Trails are indicated by capital
 letters in boxes and walls by lower case letters in ovals.  The labels
-of dated features are shaded gray.  Wall building phases are from
-\textcite[Fig.~7]{ladefoged08:_variab_hawaii}.  Compare the building
-phases assigned walls that abut trail \emph{B} on the left and right.}
+of dated features are shaded gray.}
 
 \end{figure}
 #+END_LaTeX
 
-The map prepared as part of the detailed dating program
-[[parencite:ladefoged08:_variab_hawaii][Figure 7;]] classifies field
-system features in five building phases (see Fig. \ref{fig:diagram}).
-Detailed inspection of the map indicates that the building phases are
-not strictly chronological.  This can be seen most clearly in walls
-that abut Trail /B/ in Figure \ref{fig:diagram}.  In particular, there
-is no published stratigraphic information to support the proposition
-that the building phase 2 walls on the left hand, or P\=ahinahina,
-side of Trail /B/ in Figure \ref{fig:diagram}, are older than the
-building phase 4 walls on the right hand, or Kahua 1 side, of the
-trail.  Similarly, there is no stratigraphic evidence that the
-building phase 3 walls on the left hand side of Trail /B/ are older
-than the building phase 5 walls on the right hand side of the trail.
-In fact, there appears to be no logical way to determine the relative
-ages of these two sets of walls.  That the procedures used by
-[[textcite:ladefoged08:_variab_hawaii]] assign relative ages to them
-indicates that the results they yield aren't strictly chronological.
-
-This problem with the building phases appears due to a departure from
-a standard stratigraphic analysis, which derives periods or phases
-from a matrix---the Harris matrix---that depicts all the known
-stratigraphic relationships
-[[parencite:harris89:_princ_archaeol_strat]].  Accordingly, a Harris
-matrix of the dated field system features was constructed
-(fig. \ref{fig:digraph}).  In addition to the dated field system
-features, also included in the Harris matrix are undated features that
-show the relative stratigraphic relations of dated features that don't
-intersect one another, but whose relationship can be determined with
-the map evidence.  Figure \ref{fig:digraph} thus represents the
-components of the full Harris matrix for the detailed study area
-needed to construct a chronological model for the Bayesian
-calibration.  This figure represents the chronological model that
-distinguishes Bayesian from ad hoc interpretations.
+Accordingly, a Harris matrix
+[[parencite:harris89:_princ_archaeol_strat]] that illustrates the
+known stratigraphic relations of the dated field system
+features was constructed (fig. \ref{fig:digraph}).  In addition to the
+dated field system features, also included in the Harris matrix are
+undated features that show the relative stratigraphic relations of
+dated features that don't intersect one another, but whose
+relationship can be determined with the map evidence.  Figure
+\ref{fig:digraph} thus represents the components of the full Harris
+matrix for the detailed study area needed to construct a chronological
+model for the Bayesian calibration.  This figure represents the
+chronological model that distinguishes Bayesian from ad hoc
+interpretations.
 
 Figure \ref{fig:digraph} is a directed acyclic graph, also known in
 the literature as a DAG or an acyclic digraph.  The properties of
@@ -2208,6 +2171,55 @@ consistent chronological results.
 | E                        |     4 |     4 |     4 |
 | F                        |     3 |     1 |     3 |
 | G                        |     2 |     2 |     2 |
+
+
+** Scraps
+The history of archaeological investigation of the Leeward Kohala
+Field System, beginning with the work of [[textcite:newman70][;]] in
+the 1960's and extending through the detailed investigations of the
+Hawai`i Biocomplexity Project is admirably summarized by
+[[textcite:ladefoged:_leewar_kohal_field_system]].  Investigation of
+relative chronological relations among the field system features was
+initiated by [[textcite:rosendahl72]], who pointed out that trails
+that ran over a wall were younger than the wall, and that walls that
+abutted a trail were younger than the trail.  The great potential of
+the approach was impressed on archaeologists by Kirch's publication of
+a graphic that showed a portion of the field system at three points in
+time \parencites[[multicite:kirch85][234;]][[multicite:kirch84][185;]].
+[[textcite:ladefoged00:_kohala_fields]] suggested that the process of
+ordering features could be simplified if wall length were used as a
+proxy for age.  They later compared this simplified method unfavorably
+to more detailed methods that relied on stratigraphic relations
+[[parencite:ladefoged:_leewar_kohal_field_system][100;]].
+[[textcite:ladefoged03:_archaeol_eviden_for_agric_devel]] returned to
+the detailed stratigraphic relations in three study areas, including
+the one at P\=ahinahina and Kahua 1 that was later the site of a
+detailed dating program (fig. \ref{fig:diagram}).  This work proposed
+a series of rules that could be used to assign field system features
+to one of four temporal phases.  Later, when the P\=ahinahina and
+Kahua 1 study area was selected for excavation and detailed dating,
+additional field observations led to a five phase proposal
+[[parencite:ladefoged08:_variab_hawaii]], which differed from the
+earlier phasing.
+
+The map prepared as part of the detailed dating program
+[[parencite:ladefoged08:_variab_hawaii][Figure 7;]] classifies field
+system features in five building phases (see Fig. \ref{fig:diagram}).
+Detailed inspection of the map indicates that the building phases are
+not strictly chronological.  This can be seen most clearly in walls
+that abut Trail /B/ in Figure \ref{fig:diagram}.  In particular, there
+is no published stratigraphic information to support the proposition
+that the building phase 2 walls on the left hand, or P\=ahinahina,
+side of Trail /B/ in Figure \ref{fig:diagram}, are older than the
+building phase 4 walls on the right hand, or Kahua 1 side, of the
+trail.  Similarly, there is no stratigraphic evidence that the
+building phase 3 walls on the left hand side of Trail /B/ are older
+than the building phase 5 walls on the right hand side of the trail.
+In fact, there appears to be no logical way to determine the relative
+ages of these two sets of walls.  That the procedures used by
+[[textcite:ladefoged08:_variab_hawaii]] assign relative ages to them
+indicates that the results they yield aren't strictly chronological.
+
 
 * Org-mode setup                                                   :noexport:
 #+source: setup

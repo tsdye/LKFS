@@ -1701,7 +1701,6 @@ ylab(ylabel) + facet_wrap(~ label)
 | \multicolumn{7}{l}{\fn{4} Conventional \rc\ age \parencite{stuiver-polach77}.}          |
 | \multicolumn{7}{l}{\fn{5} Source: \textcite{ladefoged08:_variab_hawaii}.}               |
 
-
 * Other material                                                   :noexport:
 ** Application of graph theory
 Application of the Harris matrix to the relative chronological
@@ -2219,7 +2218,6 @@ In fact, there appears to be no logical way to determine the relative
 ages of these two sets of walls.  That the procedures used by
 [[textcite:ladefoged08:_variab_hawaii]] assign relative ages to them
 indicates that the results they yield aren't strictly chronological.
-
 
 * Org-mode setup                                                   :noexport:
 #+source: setup

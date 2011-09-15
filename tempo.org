@@ -184,10 +184,10 @@ publications \parencites
 field system features were assigned to building phases or temporal
 units, two similar analytic constructs that group features based on
 stratigraphic relations and a set of propositions or assumptions
-independent of the stratigraphic relations.  The chronological model
-used in the Bayesian calibration is based solely on stratigraphic
-relations, so it can't be based on the published building phases or
-temporal units.
+independent of the stratigraphic relations (fig. \ref{fig:building}).
+The chronological model used in the Bayesian calibration is based
+solely on stratigraphic relations, so it can't be based on the
+published building phases or temporal units.
 
 #+BEGIN_LaTeX
 \begin{figure}[htb!] 
@@ -202,6 +202,12 @@ of dated features are shaded gray.}
 
 \end{figure}
 #+END_LaTeX
+
+#+CAPTION: [Periodization of field system features]{Periodization of field system features by building phase.}
+#+LABEL: fig:building
+#+ATTR_LaTeX: width=5in
+
+[[file:Ladefoged_and_Graves_2008_fig_7.jpg]]
 
 Accordingly, a Harris matrix
 [[parencite:harris89:_princ_archaeol_strat]] that illustrates the
@@ -255,6 +261,7 @@ stratigraphic model.
 [[file:lkfs-dag.pdf]]
 
 
+
 Figure \ref{fig:digraph} is laid out with the arrows pointing down, so
 older features are at the top of the graph and younger features are at
 the bottom.  The structure of the graph, with alternating rows of
@@ -276,17 +283,27 @@ contains pairs of points that are not reachable from one another.
 This occurs fairly frequently in situations like the one discussed
 above with walls /d/ and /g/, where the walls are physically close to
 one another and share similar stratigraphic relations to neighboring
-trails.  It also occurs frequently on opposite sides of a trail, as
-discussed above with regard to the building phase 2, 3, 4 and 5 walls
-on either side of trail /B/.  However, weak connections also occur at
-points that distinguish larger sections of the field system, and these
-might provide clues to the history of development.  The prime example
-of this in the detailed study area is wall /b/.  None of the points
-that reach wall /b/ from the left hand side of Figure
-\ref{fig:digraph} is reachable from any of the points that reach wall
-/b/ from the right hand side of the figure.  Thus the stratigraphic
-structure of the detailed study area is broken between trails /C/ and
-/D/ in Kahua 1.
+trails.  It also occurs frequently with walls on opposite sides of a
+trail.  For example, walls /d/ and /e/ are both younger than trail
+/B/, but it is not possible to determine on stratigraphic grounds
+which of the walls is older than the other.  It is true that wall /e/
+is older than trail /A/ and that wall /d/ is younger than trail /C/,
+but there is no stratigraphic information on the relative ages of
+trails /A/ and /C/, so this information does not yield a temporal
+order for the two walls.  The fact that the periodization of Figure
+\ref{fig:building} assigns relative ages to these two walls, and to
+others that share similar stratigraphic relations, is an indication
+that the building phases it proposes are not strictly chronological.
+
+These two examples of weak connections are both local in scope.
+However, weak connections also occur at points that distinguish larger
+sections of the field system, and these might provide clues to the
+history of development.  The prime example of this in the detailed
+study area is wall /b/.  None of the points that reach wall /b/ from
+the left hand side of Figure \ref{fig:digraph} is reachable from any
+of the points that reach wall /b/ from the right hand side of the
+figure.  Thus the stratigraphic structure of the detailed study area
+is broken between trails /C/ and /D/ in Kahua 1.
 
 Figure \ref{fig:digraph} provides the information needed to group
 features with similar stratigraphic relations for the Bayesian

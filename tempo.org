@@ -44,6 +44,17 @@
 #+LaTeX_HEADER: \usepackage[x11names]{xcolor}
 #+LaTeX_HEADER: \usepackage[colorlinks=true,urlcolor=SteelBlue4,linkcolor=Firebrick4,citecolor=Green4]{hyperref}
 
+#+BEGIN_abstract
+Reanalysis of radiocarbon dates that pre-date features of the Leeward
+Kohala Field System on Hawai`i Island was carried out within a
+Bayesian statistical framework.  Results of the analysis indicate that
+features of the field system were developed late in traditional
+Hawaiian times.  Many of the features appear to have been constructed
+subsequent to Cook's visit in AD 1779.  These results do not support
+the hypothesis that agricultural intensification began in the early
+seventeenth century linked to a rise in the authority of chiefs.
+#+END_abstract
+
 #+LaTeX: \tableofcontents
 #+LaTeX: \listoffigures
 #+LaTeX: \listoftables
@@ -2010,6 +2021,17 @@ size.
    however, it seems likely that the problem of securing the youngest
    material beneath each wall will require some sort of a sampling
    approach, which is likely to be expensive.
+
+
+* Abstract                                                         :noexport:
+Reanalysis of radiocarbon dates that pre-date features of the Leeward
+Kohala Field System on Hawai`i Island was carried out within a
+Bayesian statistical framework.  Results of the analysis indicate that
+features of the field system were developed late in traditional
+Hawaiian times.  Many of the features appear to have been constructed
+subsequent to Cook's visit in AD 1779.  These results do not support
+the hypothesis that agricultural intensification began in the early
+seventeenth century linked to a rise in the authority of chiefs.
 
 * Notes                                                            :noexport:
 

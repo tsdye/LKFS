@@ -1094,7 +1094,7 @@ period.
    probably pass in two variables, one with the adjacency graph and the
    other with layout attributes.
 
-#+source: dot-digraph
+#+name: dot-digraph
 #+header: :var width=6 :var height=4
 #+header: :var a=adj-lkfs
 #+header: :var b=lkfs-attrib
@@ -1227,7 +1227,7 @@ period.
 #+end_example
 
 
-#+source: trans-red
+#+name: trans-red
 #+begin_src sh :var body=dot-digraph :results output
 echo $body > dot-temp.gv
 tred dot-temp.gv > dot-temp-tred.gv
@@ -1329,7 +1329,7 @@ rm dot-temp-tred.gv
    }
 #+end_example
 
-#+source: make-dag
+#+name: make-dag
 #+headers: :file lkfs-dag.pdf :cmdline -Tpdf
 #+begin_src dot :var v=trans-red :results output
     $v
@@ -1411,7 +1411,7 @@ rm dot-temp-tred.gv
 | foo | bar |
 
 ** Source code to plot intervals
-#+source: dated-interval-plot
+#+name: dated-interval-plot
 #+header: :file output.pdf
 #+header: :var bcal = int
 #+header: :var base.font = 11
@@ -1438,7 +1438,7 @@ ylab(ylabel) + facet_wrap(~ label)
 #+end_src
 
 ** Source code to plot events
-#+source: dated-events-plot
+#+name: dated-events-plot
 #+header: :var bcal=int
 #+header: :file blank.pdf
 #+header: :var base.font = 11
@@ -2059,7 +2059,7 @@ Feathers p. 234, Fig. 202 for the Paul Rosendahl map
 | alpha-2.csv | Alpha 2 |
 
 **** Dated events
-#+source: dated-events-plot
+#+name: dated-events-plot
 #+header: :var bcal=test
 #+header: :file blank.pdf
 #+header: :var base.font = 11
@@ -2092,7 +2092,7 @@ Feathers p. 234, Fig. 202 for the Paul Rosendahl map
 | alpha-3-and-phi-2.csv  | Hiatus B |
 
 **** Dated interval
-#+source: dated-interval-plot
+#+name: dated-interval-plot
 #+header: :file output.pdf
 #+header: :var bcal = int
 #+header: :var base.font = 11
@@ -2259,7 +2259,7 @@ ages of these two sets of walls.  That the procedures used by
 indicates that the results they yield aren't strictly chronological.
 
 * Org-mode setup                                                   :noexport:
-#+source: setup
+#+name: setup
 #+begin_src emacs-lisp :noweb yes :results silent
   (setq org-export-latex-hyperref-format "\\ref{%s}")
   (setq org-entities-user '(("space" "\\ " nil " " " " " " " ")))
@@ -2276,14 +2276,14 @@ indicates that the results they yield aren't strictly chronological.
   <<define-style-specific-biblatex-commands>>
 #+end_src
 
-#+source: bibinputs
+#+name: bibinputs
 #+begin_src sh :exports none :results silent
 BIBINPUTS=/Public/projects/914_tempo/:$BIBINPUTS
 export BIBINPUTS
 #+end_src
 
 ** LaTeX link type
-#+source: latex-link
+#+name: latex-link
 #+begin_src emacs-lisp :results silent
   (org-add-link-type
    "latex" nil
@@ -2297,7 +2297,7 @@ export BIBINPUTS
 
 ** Standard Biblatex citation commands
 
-#+source: define-standard-biblatex-commands
+#+name: define-standard-biblatex-commands
 #+begin_src emacs-lisp :noweb yes :results silent :exports none
   <<define-biblatex-cite-link>>
   <<define-biblatex-cap-cite-link>>
@@ -2308,7 +2308,7 @@ export BIBINPUTS
 
 #+end_src
 
-#+source: define-biblatex-cite-link
+#+name: define-biblatex-cite-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "cite" 'ebib
@@ -2324,7 +2324,7 @@ export BIBINPUTS
                  (car (split-string desc ";"))  path))))))
 #+end_src
 
-#+source: define-biblatex-cap-cite-link
+#+name: define-biblatex-cap-cite-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "Cite" 'ebib
@@ -2340,7 +2340,7 @@ export BIBINPUTS
                  (car (split-string desc ";"))  path))))))
 #+end_src
 
-#+source: define-biblatex-parencite-link
+#+name: define-biblatex-parencite-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "parencite" 'ebib
@@ -2356,7 +2356,7 @@ export BIBINPUTS
                  (car (split-string desc ";"))  path))))))
 #+end_src
 
-#+source: define-biblatex-cap-parencite-link
+#+name: define-biblatex-cap-parencite-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "Parencite" 'ebib
@@ -2372,7 +2372,7 @@ export BIBINPUTS
                  (car (split-string desc ";"))  path))))))
 #+end_src
 
-#+source: define-biblatex-footcite-link
+#+name: define-biblatex-footcite-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "footcite" 'ebib
@@ -2388,7 +2388,7 @@ export BIBINPUTS
                  (car (split-string desc ";"))  path))))))
 #+end_src
 
-#+source: define-biblatex-footcitetext-link
+#+name: define-biblatex-footcitetext-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "footcitetext" 'ebib
@@ -2406,7 +2406,7 @@ export BIBINPUTS
 
 ** Style-specific biblatex commands
 
-#+source: define-style-specific-biblatex-commands
+#+name: define-style-specific-biblatex-commands
 #+begin_src emacs-lisp :noweb yes :results silent :exports none
   <<define-biblatex-textcite-link>>
   <<define-biblatex-cap-textcite-link>>
@@ -2418,7 +2418,7 @@ export BIBINPUTS
   <<define-biblatex-multicite-link>>
 #+end_src
 
-#+source: define-biblatex-multicite-link
+#+name: define-biblatex-multicite-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "multicite" 'ebib
@@ -2435,7 +2435,7 @@ export BIBINPUTS
   
 #+end_src
 
-#+source: define-biblatex-textcite-link
+#+name: define-biblatex-textcite-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "textcite" 'ebib
@@ -2451,7 +2451,7 @@ export BIBINPUTS
                  (car (split-string desc ";"))  path))))))
 #+end_src
 
-#+source: define-biblatex-cap-textcite-link
+#+name: define-biblatex-cap-textcite-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "Textcite" 'ebib
@@ -2467,7 +2467,7 @@ export BIBINPUTS
                  (car (split-string desc ";"))  path))))))
 #+end_src
 
-#+source: define-biblatex-smartcite-link
+#+name: define-biblatex-smartcite-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "smartcite" 'ebib
@@ -2483,7 +2483,7 @@ export BIBINPUTS
                  (car (split-string desc ";"))  path))))))
 #+end_src
 
-#+source: define-biblatex-cap-smartcite-link
+#+name: define-biblatex-cap-smartcite-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "Smartcite" 'ebib
@@ -2499,7 +2499,7 @@ export BIBINPUTS
                  (car (split-string desc ";"))  path))))))
 #+end_src
 
-#+source: define-biblatex-citestar-link
+#+name: define-biblatex-citestar-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "cite*" 'ebib
@@ -2515,7 +2515,7 @@ export BIBINPUTS
                  (car (split-string desc ";"))  path))))))
 #+end_src
 
-#+source: define-biblatex-parencitestar-link
+#+name: define-biblatex-parencitestar-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "parencite*" 'ebib
@@ -2531,7 +2531,7 @@ export BIBINPUTS
                  (car (split-string desc ";"))  path))))))
 #+end_src
 
-#+source: define-biblatex-supercite-link
+#+name: define-biblatex-supercite-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "supercite" 'ebib
@@ -2554,7 +2554,7 @@ used commands are:
 There are starred versions of most commands that will output the full
 author lists rather than use the abbreviation =et. al.=
 
-#+source: natbib-links
+#+name: natbib-links
 #+begin_src emacs-lisp :noweb yes :results silent :exports none
   <<define-citep-link>>
   <<define-citet-link>>
@@ -2566,7 +2566,7 @@ author lists rather than use the abbreviation =et. al.=
   <<define-citetstar-link>>
 #+end_src
 
-#+source: define-citep-link
+#+name: define-citep-link
 #+begin_src emacs-lisp :results silent :exports none
     (org-add-link-type 
      "citep" 'ebib
@@ -2582,7 +2582,7 @@ author lists rather than use the abbreviation =et. al.=
   )))))
 #+end_src
 
-#+source: define-citet-link
+#+name: define-citet-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "citet" 'ebib
@@ -2598,7 +2598,7 @@ author lists rather than use the abbreviation =et. al.=
 )))))
 #+end_src
 
-#+source: define-citealt-link
+#+name: define-citealt-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "citealt" 'ebib
@@ -2611,7 +2611,7 @@ author lists rather than use the abbreviation =et. al.=
 )))))
 #+end_src
 
-#+source: define-citealp-link
+#+name: define-citealp-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "citealp" 'ebib
@@ -2624,7 +2624,7 @@ author lists rather than use the abbreviation =et. al.=
          )))))
 #+end_src
 
-#+source: define-citealtstar-link
+#+name: define-citealtstar-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "citealt*" 'ebib
@@ -2637,7 +2637,7 @@ author lists rather than use the abbreviation =et. al.=
          )))))
 #+end_src
 
-#+source: define-citealpstar-link
+#+name: define-citealpstar-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "citealp*" 'ebib
@@ -2650,7 +2650,7 @@ author lists rather than use the abbreviation =et. al.=
          )))))
 #+end_src
 
-#+source: define-citepstar-link
+#+name: define-citepstar-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "citep*" 'ebib
@@ -2663,7 +2663,7 @@ author lists rather than use the abbreviation =et. al.=
          )))))
 #+end_src
 
-#+source: define-citetstar-link
+#+name: define-citetstar-link
 #+begin_src emacs-lisp :results silent :exports none
   (org-add-link-type 
    "citet*" 'ebib
